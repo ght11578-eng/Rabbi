@@ -36,7 +36,7 @@ API_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
 ADMIN_IDS = [6664150885]
 CHANNEL_2 = "https://t.me/mailbotnewsofficial"
 
-# â”€â”€ Panel 1 (Mahofuza) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Panel 1 (Mahofuza) ───────────────────────────────────────────────────────
 P1_BASE_URL = "http://91.232.105.47/ints"
 P1_LOGIN_PAGE = P1_BASE_URL + "/login"
 P1_SIGNIN_URL = P1_BASE_URL + "/signin"
@@ -45,7 +45,7 @@ P1_CDR_DATA_URL = P1_BASE_URL + "/agent/res/data_smscdr.php"
 P1_USER_NAME = "Mahofuza"
 P1_PASSWORD = "Mahofuza"
 
-# â”€â”€ Panel 2 (Sagardas50 / XISORA) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Panel 2 (Sagardas50 / XISORA) ────────────────────────────────────────────
 P2_BASE_URL = "http://94.23.31.29/sms"
 P2_SIGNIN_URL = P2_BASE_URL + "/signmein"
 P2_REPORTS_PAGE = P2_BASE_URL + "/client/Reports"
@@ -53,7 +53,7 @@ P2_DATA_URL = P2_BASE_URL + "/client/ajax/dt_reports.php"
 P2_USER_NAME = "Sagardas50"
 P2_PASSWORD = "Sagardas50"
 
-# â”€â”€ Panel 3 (Rabbi1_FD) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Panel 3 (Rabbi1_FD) ───────────────────────────────────────────────────────
 P3_BASE_URL = "http://168.119.13.175/ints"
 P3_LOGIN_PAGE = P3_BASE_URL + "/login"
 P3_SIGNIN_URL = P3_BASE_URL + "/signin"
@@ -62,7 +62,7 @@ P3_CDR_DATA_URL = P3_BASE_URL + "/agent/res/data_smscdr.php"
 P3_USER_NAME = "Rabbi1_FD"
 P3_PASSWORD = "Rabbi1_FD"
 
-# â”€â”€ Panel 4 (Rabbi12) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Panel 4 (Rabbi12) ─────────────────────────────────────────────────────────
 P4_BASE_URL = "http://144.217.71.192/ints"
 P4_LOGIN_PAGE = P4_BASE_URL + "/login"
 P4_SIGNIN_URL = P4_BASE_URL + "/signin"
@@ -71,7 +71,7 @@ P4_CDR_DATA_URL = P4_BASE_URL + "/agent/res/data_smscdr.php"
 P4_USER_NAME = "Rabbi12"
 P4_PASSWORD = "Rabbi12"
 
-# â”€â”€ Panel 5 (Rabbi12_v2 / 51.75.144.178) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Panel 5 (Rabbi12_v2 / 51.75.144.178) ─────────────────────────────────────
 P5_BASE_URL = "http://51.75.144.178/ints"
 P5_LOGIN_PAGE = P5_BASE_URL + "/login"
 P5_SIGNIN_URL = P5_BASE_URL + "/signin"
@@ -80,7 +80,7 @@ P5_CDR_DATA_URL = P5_BASE_URL + "/agent/res/data_smscdr.php"
 P5_USER_NAME = "Rabbi12"
 P5_PASSWORD = "Rabbi12@"
 
-# â”€â”€ Panel 6 (Sagardas50 / TrueSMS.net â€” SMSRanges) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Panel 6 (Sagardas50 / TrueSMS.net — SMSRanges) ───────────────────────────
 P6_BASE_URL = "https://truesms.net"
 P6_LOGIN_PAGE = P6_BASE_URL + "/login"
 P6_SIGNIN_URL = P6_BASE_URL + "/signin"
@@ -90,14 +90,14 @@ P6_USER_NAME = "Sagardas50"
 P6_PASSWORD = "Sagardas50"
 
 
-POLL_INTERVAL = 3  # seconds â€” real-time as possible
+POLL_INTERVAL = 3  # seconds — real-time as possible
 DATA_FILE = "stock_data.json"
 USERS_FILE = "users.json"
 SEEN_FILE = "seen_otps.json"
 
 bot = telebot.TeleBot(API_TOKEN, threaded=True, num_threads=40)
 
-# â”€â”€ Persistent helpers â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Persistent helpers ────────────────────────────────────────────────────────
 
 
 def load_json(path, default):
@@ -234,10 +234,10 @@ def _schedule_delete(chat_id, msg_id):
 
 SERVICES_FILE = "services.json"
 _DEFAULT_SERVICES = [
-    {"label": "Instagram â†’", "key": "instagram"},
-    {"label": "Facebook ðŸ’Ž", "key": "facebook"},
+    {"label": "Instagram →", "key": "instagram"},
+    {"label": "Facebook 💎", "key": "facebook"},
     {"label": "WhatsApp", "key": "whatsapp"},
-    {"label": "PC Clone ðŸ’Ž", "key": "pc clone"},
+    {"label": "PC Clone 💎", "key": "pc clone"},
 ]
 _services = load_json(SERVICES_FILE, list(_DEFAULT_SERVICES))
 _addservice_state = {}
@@ -348,10 +348,10 @@ def mask_number(number, owner_uid=None):
     d = re.sub(r"\D", "", str(number))
     if len(d) <= 6:
         return d
-    return f"{d[:3]}â˜…{brand}â˜…{d[-3:]}"
+    return f"{d[:3]}★{brand}★{d[-3:]}"
 
 
-# â”€â”€ OTP Messages â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── OTP Messages ──────────────────────────────────────────────────────────────
 
 
 def send_otp_message(chat_id, otp, number, seconds, cli="", sms_txt="", owner_uid=None):
@@ -360,16 +360,16 @@ def send_otp_message(chat_id, otp, number, seconds, cli="", sms_txt="", owner_ui
     brand = get_brand(owner_uid)
     service = detect_service_from_sms(sms_txt) if sms_txt else (cli.upper() if cli else "SMS")
     c_name, flag = get_country_details(number)
-    cli_line = f"\nðŸ“Ÿ CLI: <code>{cli}</code>" if cli and cli.strip() else ""
+    cli_line = f"\n📟 CLI: <code>{cli}</code>" if cli and cli.strip() else ""
 
     message = (
-        f"ðŸ” <b>{service.upper()} OTP RECEIVED</b> ðŸ”\n\n"
+        f"🔐 <b>{service.upper()} OTP RECEIVED</b> 🔐\n\n"
         f"{flag} {c_name}\n"
-        f"ðŸ“ž <code>{mask_number(number, owner_uid)}</code>\n"
-        f"ðŸ“± Service: <b>{service}</b>"
+        f"📞 <code>{mask_number(number, owner_uid)}</code>\n"
+        f"📱 Service: <b>{service}</b>"
         f"{cli_line}\n\n"
-        f"ðŸ’¬ OTP: <code>{otp}</code>\n"
-        f"ðŸ‘‘{brand}"
+        f"💬 OTP: <code>{otp}</code>\n"
+        f"👑{brand}"
     )
 
     num_ch = get_num_channel(owner_uid)
@@ -377,9 +377,9 @@ def send_otp_message(chat_id, otp, number, seconds, cli="", sms_txt="", owner_ui
     markup = types.InlineKeyboardMarkup()
     row = []
     if num_ch:
-        row.append(types.InlineKeyboardButton("ðŸ“² Numbers", url=num_ch))
+        row.append(types.InlineKeyboardButton("📲 Numbers", url=num_ch))
     if main_ch:
-        row.append(types.InlineKeyboardButton("ðŸ“¢ Main CH", url=main_ch))
+        row.append(types.InlineKeyboardButton("📢 Main CH", url=main_ch))
     if row:
         markup.row(*row)
 
@@ -409,11 +409,11 @@ def _dispatch_otp(otp, number, seconds, cli="", sms_txt="", owner_uid=None):
 
 def send_status_message(chat_id, status_text):
     message = (
-        "âš™ï¸ <b>ð—¦ð—§ð—”ð—§ð—¨ð—¦ ð—”ð—Ÿð—˜ð—¥ð—§</b> âš™ï¸\n"
-        "ðŸ”¥â”â”â”â”â”â”â”â”â”â”â”â”â”â”ðŸ”¥\n\n"
-        f"ðŸ“› {status_text} ðŸ“›\n\n"
-        "ðŸ”¥â”â”â”â”â”â”â”â”â”â”â”â”â”â”ðŸ”¥\n"
-        "ðŸ¤–âš¡ <b>ð—”ð—¥ ð—¢ð—§ð—£ ð—•ð—¢ð—§ â€” ð—”ð—–ð—§ð—œð—©ð—˜</b> âš¡ðŸ¤–"
+        "⚙️ <b>𝗦𝗧𝗔𝗧𝗨𝗦 𝗔𝗟𝗘𝗥𝗧</b> ⚙️\n"
+        "🔥━━━━━━━━━━━━━━🔥\n\n"
+        f"📛 {status_text} 📛\n\n"
+        "🔥━━━━━━━━━━━━━━🔥\n"
+        "🤖⚡ <b>𝗔𝗥 𝗢𝗧𝗣 𝗕𝗢𝗧 — 𝗔𝗖𝗧𝗜𝗩𝗘</b> ⚡🤖"
     )
     try:
         bot.send_message(chat_id=chat_id, text=message, parse_mode="HTML")
@@ -421,7 +421,7 @@ def send_status_message(chat_id, status_text):
         print(f"[MONITOR] Status send error: {e}")
 
 
-# â”€â”€ Country helpers â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Country helpers ───────────────────────────────────────────────────────────
 
 
 def get_country_details(num_str):
@@ -435,10 +435,10 @@ def get_country_details(num_str):
         flag = "".join(chr(ord(c.upper()) + 127397) for c in country_code)
         return country_name, flag
     except Exception:
-        return "Unknown", "ðŸŒ"
+        return "Unknown", "🌐"
 
 
-# â”€â”€ Stock helpers â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Stock helpers ─────────────────────────────────────────────────────────────
 
 
 def save_stock():
@@ -463,7 +463,7 @@ def register_user(chat_id, first_name="", last_name="", username=""):
         save_json(USER_NAMES_FILE, user_names)
 
 
-# â”€â”€ Panel sessions â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Panel sessions ────────────────────────────────────────────────────────────
 
 _p1_session = None
 _p1_sesskey = None
@@ -489,12 +489,12 @@ _p6_sesskey = None
 _p6_lock = threading.Lock()
 
 
-# â”€â”€ Panel stats (for /panels command) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Panel stats (for /panels command) ─────────────────────────────────────────
 _panel_stats = {
     "p1": {
         "name": "Mahofuza",
         "host": "91.232.105.47",
-        "status": "â³",
+        "status": "⏳",
         "count": 0,
         "last": None,
         "errors": 0,
@@ -502,7 +502,7 @@ _panel_stats = {
     "p2": {
         "name": "Sagardas50",
         "host": "94.23.31.29",
-        "status": "â³",
+        "status": "⏳",
         "count": 0,
         "last": None,
         "errors": 0,
@@ -510,7 +510,7 @@ _panel_stats = {
     "p3": {
         "name": "Rabbi1_FD",
         "host": "168.119.13.175",
-        "status": "â³",
+        "status": "⏳",
         "count": 0,
         "last": None,
         "errors": 0,
@@ -518,7 +518,7 @@ _panel_stats = {
     "p4": {
         "name": "Rabbi12",
         "host": "144.217.71.192",
-        "status": "â³",
+        "status": "⏳",
         "count": 0,
         "last": None,
         "errors": 0,
@@ -526,7 +526,7 @@ _panel_stats = {
     "p5": {
         "name": "Rabbi12_v2",
         "host": "51.75.144.178",
-        "status": "â³",
+        "status": "⏳",
         "count": 0,
         "last": None,
         "errors": 0,
@@ -534,7 +534,7 @@ _panel_stats = {
     "p6": {
         "name": "TrueSMS/Ranges",
         "host": "truesms.net",
-        "status": "â³",
+        "status": "⏳",
         "count": 0,
         "last": None,
         "errors": 0,
@@ -545,7 +545,7 @@ _stats_lock = threading.Lock()
 
 def _record_fetch(pid, count):
     with _stats_lock:
-        _panel_stats[pid]["status"] = "ðŸŸ¢"
+        _panel_stats[pid]["status"] = "🟢"
         _panel_stats[pid]["count"] = count
         _panel_stats[pid]["last"] = time.time()
         _panel_stats[pid]["errors"] = 0
@@ -553,11 +553,11 @@ def _record_fetch(pid, count):
 
 def _record_error(pid):
     with _stats_lock:
-        _panel_stats[pid]["status"] = "ðŸ”´"
+        _panel_stats[pid]["status"] = "🔴"
         _panel_stats[pid]["errors"] += 1
 
 
-# â”€â”€ Demo OTP state â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Demo OTP state ─────────────────────────────────────────────────────────────
 _demo_active = False
 _demo_lock = threading.Lock()
 _demo_config = {
@@ -569,13 +569,13 @@ _demo_config = {
 
 seen_lock = threading.Lock()
 
-# â”€â”€ Dynamic panel system â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Dynamic panel system ───────────────────────────────────────────────────────
 DYNAMIC_PANELS_FILE = "dynamic_panels.json"
 _dynamic_panels = load_json(DYNAMIC_PANELS_FILE, [])
 _dynamic_sessions = {}
 _dynamic_locks = {}
 _addpanel_state = {}
-_pending_excel = {}  # uid â†’ {'numbers': [...], 'filename': str}
+_pending_excel = {}  # uid → {'numbers': [...], 'filename': str}
 
 
 def save_dynamic_panels():
@@ -598,14 +598,14 @@ def _ints_login(panel):
     owner_uid = panel.get("owner_uid", SUPER_ADMIN_ID)
     brand = get_brand(owner_uid)
     ts = time.strftime("%H:%M:%S")
-    print(f"[{ts}] ðŸš€ SMS Forwarder à¦¶à§à¦°à§ à¦¹à¦šà§à¦›à§‡... Brand: {brand}  [{pid} | {panel.get('host','')}]")
+    print(f"[{ts}] 🚀 SMS Forwarder শুরু হচ্ছে... Brand: {brand}  [{pid} | {panel.get('host','')}]")
     try:
         r = sess.get(base + "/login", timeout=15, verify=False)
         m = re.search(r"What is (\d+) \+ (\d+)", r.text)
         if m:
             answer = int(m.group(1)) + int(m.group(2))
             ts2 = time.strftime("%H:%M:%S")
-            print(f"[{ts2}] ðŸ”‘ Captcha = {answer}  [{pid}]")
+            print(f"[{ts2}] 🔑 Captcha = {answer}  [{pid}]")
             r2 = sess.post(
                 base + "/signin",
                 data={
@@ -627,7 +627,7 @@ def _ints_login(panel):
             )
         if "login" in r2.url.lower() and "agent" not in r2.url.lower():
             ts3 = time.strftime("%H:%M:%S")
-            print(f"[{ts3}] âŒ Login failed [{pid}]: {r2.url}")
+            print(f"[{ts3}] ❌ Login failed [{pid}]: {r2.url}")
             return None, None
         cdr_page = base + cdr_endpoint
         r3 = sess.get(cdr_page, timeout=15, headers={"Referer": base + "/agent/"}, verify=False)
@@ -635,11 +635,11 @@ def _ints_login(panel):
         cs = re.search(r"csstr=([a-f0-9]+)", r3.text)
         token = sk.group(1) if sk else (cs.group(1) if cs else "")
         ts4 = time.strftime("%H:%M:%S")
-        print(f"[{ts4}] âœ… Login successful  [{pid} | user={panel['username']}]")
+        print(f"[{ts4}] ✅ Login successful  [{pid} | user={panel['username']}]")
         return sess, token
     except Exception as e:
         ts5 = time.strftime("%H:%M:%S")
-        print(f"[{ts5}] âŒ Login error [{pid}]: {e}")
+        print(f"[{ts5}] ❌ Login error [{pid}]: {e}")
         return None, None
 
 
@@ -708,7 +708,7 @@ def _ints_fetch(panel):
                     found[key] = (number, otp, sms_txt, service)
             _record_fetch(pid, len(rows))
             if found:
-                print(f"[{pid}] âœ… Fetched {len(found)} records.")
+                print(f"[{pid}] ✅ Fetched {len(found)} records.")
         except Exception as e:
             print(f"[{pid}] Fetch error: {e}")
             _record_error(pid)
@@ -723,7 +723,7 @@ def _start_dynamic_panel(panel):
         _panel_stats[pid] = {
             "name": panel.get("username", pid),
             "host": panel.get("host", ""),
-            "status": "â³",
+            "status": "⏳",
             "count": 0,
             "last": None,
             "errors": 0,
@@ -738,7 +738,7 @@ def _start_dynamic_panel(panel):
                 seen_otps[key] = True
             save_json(SEEN_FILE, seen_otps)
         ts = time.strftime("%H:%M:%S")
-        print(f"[{ts}] ðŸ“¦ {len(existing)} à¦Ÿà¦¿ à¦ªà§à¦°à¦¾à¦¨à§‹ SMS à¦²à§‹à¦¡ à¦¹à¦¯à¦¼à§‡à¦›à§‡ (forward à¦¹à¦¬à§‡ à¦¨à¦¾) [{pid}]")
+        print(f"[{ts}] 📦 {len(existing)} টি পুরানো SMS লোড হয়েছে (forward হবে না) [{pid}]")
         while True:
             try:
                 process_new_otps(_ints_fetch(panel), owner_uid)
@@ -755,7 +755,7 @@ def extract_otp_from_sms(sms_text):
     return m.group(1) if m else None
 
 
-# â”€â”€ Panel 1 login & fetch (Mahofuza) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Panel 1 login & fetch (Mahofuza) ─────────────────────────────────────────
 
 
 def p1_login():
@@ -776,7 +776,7 @@ def p1_login():
             allow_redirects=True,
         )
         if "login" in r2.url.lower() or "login" in r2.text.lower()[:500]:
-            print("[P1] Login failed â€” still on login page")
+            print("[P1] Login failed — still on login page")
             return False
         r3 = sess.get(
             P1_CDR_PAGE, timeout=15, headers={"Referer": P1_BASE_URL + "/agent/"}
@@ -837,7 +837,7 @@ def fetch_panel1():
                     found[key] = (number, otp, sms_txt, service)
             _record_fetch("p1", len(rows))
             if found:
-                print(f"[P1] âœ… Fetched {len(found)} records.")
+                print(f"[P1] ✅ Fetched {len(found)} records.")
         except Exception as e:
             print(f"[P1] Fetch error: {e}")
             _record_error("p1")
@@ -845,7 +845,7 @@ def fetch_panel1():
     return found
 
 
-# â”€â”€ Panel 2 login & fetch (Sagardas50 / XISORA) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Panel 2 login & fetch (Sagardas50 / XISORA) ──────────────────────────────
 
 
 def p2_login():
@@ -860,7 +860,7 @@ def p2_login():
             allow_redirects=True,
         )
         if "signin" in r.url.lower() or "login" in r.url.lower():
-            print("[P2] Login failed â€” still on login page")
+            print("[P2] Login failed — still on login page")
             return False
         _p2_session = sess
         print(f"[P2] Logged in. URL={r.url}")
@@ -909,7 +909,7 @@ def fetch_panel2():
                     found[key] = (number, otp, sms_txt, service)
             _record_fetch("p2", len(rows))
             if found:
-                print(f"[P2] âœ… Fetched {len(found)} records.")
+                print(f"[P2] ✅ Fetched {len(found)} records.")
         except Exception as e:
             print(f"[P2] Fetch error: {e}")
             _record_error("p2")
@@ -917,7 +917,7 @@ def fetch_panel2():
     return found
 
 
-# â”€â”€ Shared OTP processor â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Shared OTP processor ──────────────────────────────────────────────────────
 
 
 def process_new_otps(current, owner_uid=None):
@@ -939,25 +939,25 @@ def process_new_otps(current, owner_uid=None):
         ts = time.strftime("%H:%M:%S")
         brand = get_brand(owner_uid)
         print(
-            f"[{ts}] ðŸ’¬ OTP FORWARD | {service} | {number} | {otp} | admin={owner_uid} | brand={brand}"
+            f"[{ts}] 💬 OTP FORWARD | {service} | {number} | {otp} | admin={owner_uid} | brand={brand}"
         )
 
 
-# â”€â”€ Global OTP monitors â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Global OTP monitors ───────────────────────────────────────────────────────
 
 
 def _panel_startup(label, fetch_fn, owner_uid):
     global seen_otps
     brand = get_brand(owner_uid)
     ts = time.strftime("%H:%M:%S")
-    print(f"[{ts}] ðŸš€ SMS Forwarder à¦¶à§à¦°à§ à¦¹à¦šà§à¦›à§‡... Brand: {brand}  [{label}]")
+    print(f"[{ts}] 🚀 SMS Forwarder শুরু হচ্ছে... Brand: {brand}  [{label}]")
     existing = fetch_fn()
     with seen_lock:
         for key in existing:
             seen_otps[key] = True
         save_json(SEEN_FILE, seen_otps)
     ts2 = time.strftime("%H:%M:%S")
-    print(f"[{ts2}] ðŸ“¦ {len(existing)} à¦Ÿà¦¿ à¦ªà§à¦°à¦¾à¦¨à§‹ SMS à¦²à§‹à¦¡ à¦¹à¦¯à¦¼à§‡à¦›à§‡ (forward à¦¹à¦¬à§‡ à¦¨à¦¾) [{label}]")
+    print(f"[{ts2}] 📦 {len(existing)} টি পুরানো SMS লোড হয়েছে (forward হবে না) [{label}]")
     return existing
 
 
@@ -981,7 +981,7 @@ def panel2_monitor():
         time.sleep(POLL_INTERVAL)
 
 
-# â”€â”€ Panel 3 login & fetch (Rabbi1_FD) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Panel 3 login & fetch (Rabbi1_FD) ────────────────────────────────────────
 
 
 def p3_login():
@@ -1002,7 +1002,7 @@ def p3_login():
             allow_redirects=True,
         )
         if "login" in r2.url.lower() or "signin" in r2.url.lower():
-            print("[P3] Login failed â€” still on login page")
+            print("[P3] Login failed — still on login page")
             return False
         r3 = sess.get(
             P3_CDR_PAGE, timeout=15, headers={"Referer": P3_BASE_URL + "/agent/"}
@@ -1065,7 +1065,7 @@ def fetch_panel3():
                     found[key] = (number, otp, sms_txt, service)
             _record_fetch("p3", len(rows))
             if found:
-                print(f"[P3] âœ… Fetched {len(found)} records.")
+                print(f"[P3] ✅ Fetched {len(found)} records.")
         except Exception as e:
             print(f"[P3] Fetch error: {e}")
             _record_error("p3")
@@ -1083,7 +1083,7 @@ def panel3_monitor():
         time.sleep(POLL_INTERVAL)
 
 
-# â”€â”€ Panel 4 login & fetch (Rabbi12 / 144.217.71.192) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Panel 4 login & fetch (Rabbi12 / 144.217.71.192) ─────────────────────────
 
 
 def p4_login():
@@ -1165,7 +1165,7 @@ def fetch_panel4():
                     found[key] = (number, otp, sms_txt, service)
             _record_fetch("p4", len(rows))
             if found:
-                print(f"[P4] âœ… Fetched {len(found)} records.")
+                print(f"[P4] ✅ Fetched {len(found)} records.")
         except Exception as e:
             print(f"[P4] Fetch error: {e}")
             _record_error("p4")
@@ -1183,7 +1183,7 @@ def panel4_monitor():
         time.sleep(POLL_INTERVAL)
 
 
-# â”€â”€ Panel 5 login & fetch (Rabbi12_v2 / 51.75.144.178) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Panel 5 login & fetch (Rabbi12_v2 / 51.75.144.178) ───────────────────────
 
 
 def p5_login():
@@ -1265,7 +1265,7 @@ def fetch_panel5():
                     found[key] = (number, otp, sms_txt, service)
             _record_fetch("p5", len(rows))
             if found:
-                print(f"[P5] âœ… Fetched {len(found)} records.")
+                print(f"[P5] ✅ Fetched {len(found)} records.")
         except Exception as e:
             print(f"[P5] Fetch error: {e}")
             _record_error("p5")
@@ -1283,7 +1283,7 @@ def panel5_monitor():
         time.sleep(POLL_INTERVAL)
 
 
-# â”€â”€ Panel 6 login & fetch (TrueSMS.net / SMSRanges) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Panel 6 login & fetch (TrueSMS.net / SMSRanges) ──────────────────────────
 
 
 def p6_login():
@@ -1386,7 +1386,7 @@ def fetch_panel6():
                     found[key] = (number, otp, sms_txt, service)
             _record_fetch("p6", len(rows))
             if found:
-                print(f"[P6] âœ… Fetched {len(found)} records.")
+                print(f"[P6] ✅ Fetched {len(found)} records.")
         except Exception as e:
             print(f"[P6] Fetch error: {e}")
             _record_error("p6")
@@ -1404,7 +1404,7 @@ def panel6_monitor():
         time.sleep(POLL_INTERVAL)
 
 
-# â”€â”€ Demo OTP monitor â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Demo OTP monitor ──────────────────────────────────────────────────────────
 
 
 def demo_monitor():
@@ -1427,24 +1427,24 @@ def demo_status_text():
     with _demo_lock:
         active = _demo_active
         cfg = dict(_demo_config)
-    status = "ðŸŸ¢ <b>RUNNING</b>" if active else "ðŸ”´ <b>STOPPED</b>"
+    status = "🟢 <b>RUNNING</b>" if active else "🔴 <b>STOPPED</b>"
     nums = cfg["numbers"]
     SHOW_MAX = 10
     num_lines = ""
     for n in nums[:SHOW_MAX]:
         c_name, flag = get_country_details(n)
-        num_lines += f"  â€¢ <code>{n}</code>  {flag} {c_name}\n"
+        num_lines += f"  • <code>{n}</code>  {flag} {c_name}\n"
     if len(nums) > SHOW_MAX:
         num_lines += f"  ... +{len(nums) - SHOW_MAX} more\n"
     return (
-        f"ðŸŽ­ðŸ”¥ <b>DEMO OTP PANEL</b> ðŸ”¥ðŸŽ­\n"
-        f"âš¡â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”âš¡\n\n"
-        f"ðŸ“¡ <b>Status   â–¸â–¸</b>  {status}\n"
-        f"ðŸ“± <b>Numbers ({len(nums)}):</b>\n{num_lines}"
-        f"ðŸ”¢ <b>Digits   â–¸â–¸</b>  {cfg['digits']}\n"
-        f"ðŸ’¬ <b>Service  â–¸â–¸</b>  {cfg['service']}\n"
-        f"â±ï¸ <b>Interval â–¸â–¸</b>  every {cfg['interval']}s\n\n"
-        f"âš¡â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”âš¡"
+        f"🎭🔥 <b>DEMO OTP PANEL</b> 🔥🎭\n"
+        f"⚡━━━━━━━━━━━━━━━━⚡\n\n"
+        f"📡 <b>Status   ▸▸</b>  {status}\n"
+        f"📱 <b>Numbers ({len(nums)}):</b>\n{num_lines}"
+        f"🔢 <b>Digits   ▸▸</b>  {cfg['digits']}\n"
+        f"💬 <b>Service  ▸▸</b>  {cfg['service']}\n"
+        f"⏱️ <b>Interval ▸▸</b>  every {cfg['interval']}s\n\n"
+        f"⚡━━━━━━━━━━━━━━━━⚡"
     )
 
 
@@ -1453,23 +1453,23 @@ def demo_menu_markup():
     with _demo_lock:
         active = _demo_active
     if active:
-        m.add("â¹ï¸ ð——ð—˜ð— ð—¢ ð—¦ð—§ð—¢ð—£")
+        m.add("⏹️ 𝗗𝗘𝗠𝗢 𝗦𝗧𝗢𝗣")
     else:
-        m.add("â–¶ï¸ ð——ð—˜ð— ð—¢ ð—¦ð—§ð—”ð—¥ð—§")
-    m.add("âš™ï¸ ð——ð—˜ð— ð—¢ ð—–ð—¢ð—¡ð—™ð—œð—š")
-    m.add("ðŸ”™ ð—”ð——ð— ð—œð—¡ ð—£ð—”ð—¡ð—˜ð—Ÿ")
+        m.add("▶️ 𝗗𝗘𝗠𝗢 𝗦𝗧𝗔𝗥𝗧")
+    m.add("⚙️ 𝗗𝗘𝗠𝗢 𝗖𝗢𝗡𝗙𝗜𝗚")
+    m.add("🔙 𝗔𝗗𝗠𝗜𝗡 𝗣𝗔𝗡𝗘𝗟")
     return m
 
 
-# â”€â”€ Menus â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Menus ─────────────────────────────────────────────────────────────────────
 
 
 def main_menu(user_id):
     markup = types.ReplyKeyboardMarkup(resize_keyboard=True, row_width=2)
-    markup.add(types.KeyboardButton("â˜Žï¸ ð—¡ð—¨ð— ð—•ð—”ð—¥ â˜Žï¸"))
-    markup.add(types.KeyboardButton("ðŸ“Š ð—¦ð—§ð—¢ð—–ð—ž"), types.KeyboardButton("ðŸ“ž ð—¦ð—”ð—£ð—¢ð—¥ð—§"))
+    markup.add(types.KeyboardButton("☎️ 𝗡𝗨𝗠𝗕𝗔𝗥 ☎️"))
+    markup.add(types.KeyboardButton("📊 𝗦𝗧𝗢𝗖𝗞"), types.KeyboardButton("📞 𝗦𝗔𝗣𝗢𝗥𝗧"))
     if user_id in ADMIN_IDS:
-        markup.add(types.KeyboardButton("âš™ï¸ ð—”ð——ð— ð—œð—¡ ð—£ð—”ð—¡ð—˜ð—Ÿ âš™ï¸"))
+        markup.add(types.KeyboardButton("⚙️ 𝗔𝗗𝗠𝗜𝗡 𝗣𝗔𝗡𝗘𝗟 ⚙️"))
     return markup
 
 
@@ -1489,10 +1489,10 @@ def show_services(message):
     btns = [types.KeyboardButton(s["label"]) for s in _services]
     for i in range(0, len(btns), 2):
         markup.add(*btns[i:i + 2])
-    markup.add(types.KeyboardButton("ðŸ”™ Main Menu"))
+    markup.add(types.KeyboardButton("🔙 Main Menu"))
     bot.send_message(
         message.chat.id,
-        "ðŸ›  <b>Select Service:</b>",
+        "🛠 <b>Select Service:</b>",
         reply_markup=markup,
         parse_mode="HTML",
     )
@@ -1513,17 +1513,17 @@ def show_countries(chat_id, svc):
     if btns:
         markup.add(*btns)
     markup.add(
-        types.InlineKeyboardButton("â¬…ï¸ ð—•ð—®ð—°ð—¸", callback_data="back_to_services")
+        types.InlineKeyboardButton("⬅️ 𝗕𝗮𝗰𝗸", callback_data="back_to_services")
     )
     bot.send_message(
         chat_id,
-        f"ðŸ”¥ <b>{svc.upper()} â€” COUNTRY SELECT</b> ðŸ”¥",
+        f"🔥 <b>{svc.upper()} — COUNTRY SELECT</b> 🔥",
         reply_markup=markup,
         parse_mode="HTML",
     )
 
 
-# â”€â”€ Handlers â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Handlers ──────────────────────────────────────────────────────────────────
 
 
 @bot.message_handler(commands=["start"])
@@ -1538,7 +1538,7 @@ def start_cmd(message):
     uname = f"@{u.username}" if u.username else (u.first_name or "User")
     uid_str = u.id
     is_admin = u.id in ADMIN_IDS
-    # Per-admin group/channel links â€” admins see THEIR OWN links
+    # Per-admin group/channel links — admins see THEIR OWN links
     if is_admin:
         grp_link = get_admin_group_link(u.id) or ""
         main_ch  = get_main_channel_url(u.id) or ""
@@ -1548,26 +1548,26 @@ def start_cmd(message):
 
     markup = types.InlineKeyboardMarkup()
     if grp_link:
-        markup.add(types.InlineKeyboardButton("ðŸ”¥ ð—¢ð—§ð—£ ð—šð—¿ð˜‚ð—½ ð—ð—¢ð—œð—¡ ðŸ”¥", url=grp_link))
+        markup.add(types.InlineKeyboardButton("🔥 𝗢𝗧𝗣 𝗚𝗿𝘂𝗽 𝗝𝗢𝗜𝗡 🔥", url=grp_link))
     if main_ch:
-        markup.add(types.InlineKeyboardButton("ðŸ“¢ ð— ð—®ð—¶ð—» ð—–ð—µð—®ð—»ð—»ð—²ð—¹ ð—ð—¢ð—œð—¡", url=main_ch))
-    markup.add(types.InlineKeyboardButton("âœ… ð—©ð—˜ð—¥ð—œð—™ð—¬ ð—žð—¢ð—¥ð—¢ âœ…", callback_data="v"))
+        markup.add(types.InlineKeyboardButton("📢 𝗠𝗮𝗶𝗻 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝗝𝗢𝗜𝗡", url=main_ch))
+    markup.add(types.InlineKeyboardButton("✅ 𝗩𝗘𝗥𝗜𝗙𝗬 𝗞𝗢𝗥𝗢 ✅", callback_data="v"))
     bot.send_message(
         message.chat.id,
-        f"ðŸ”¥ <b>ð—¥ð—”ð—•ð—•ð—œ ð—¢ð—§ð—£ ð—•ð—¢ð—§-ð—² ð—¦ð—”ð—šð—¢ð—§ð—¢ð— !</b> ðŸ”¥\n\n"
-        f"â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—\n"
-        f"   ðŸ§¾ <b>USER DASHBOARD</b>\n"
-        f"â• â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•£\n"
-        f"  ðŸ‘¤ <b>User:</b> {uname}\n"
-        f"  ðŸ†” <b>ID:</b> <code>{uid_str}</code>\n"
-        f"  ðŸ“Š <b>Status:</b> ðŸ’Ž Premium\n"
-        f"  ðŸš€ <b>Workers:</b> 0\n"
-        f"â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•\n\n"
-        f"â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—\n"
-        f" ð—¡ð—¶ð—°ð—µð—²ð—¿ ð—°ð—µð—®ð—»ð—»ð—²ð—¹ð—² <b>ð—ð—¢ð—œð—¡</b> ð—µð—¼ð˜†ð—²\n"
-        f" <b>ð—©ð—˜ð—¥ð—œð—™ð—¬</b> ð—¯ð—®ð˜ð—®ð—»ð—² ð—°ð—¹ð—¶ð—°ð—¸ ð—¸ð—¼ð—¿ð—¼!\n"
-        f"â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•\n\n"
-        f"ðŸ¤– <b>POWERED BY RABBI ð—¢ð—§ð—£ ð—•ð—¢ð—§</b> ðŸ”¥",
+        f"🔥 <b>𝗥𝗔𝗕𝗕𝗜 𝗢𝗧𝗣 𝗕𝗢𝗧-𝗲 𝗦𝗔𝗚𝗢𝗧𝗢𝗠!</b> 🔥\n\n"
+        f"╔═════════════════════════════╗\n"
+        f"   🧾 <b>USER DASHBOARD</b>\n"
+        f"╠═════════════════════════════╣\n"
+        f"  👤 <b>User:</b> {uname}\n"
+        f"  🆔 <b>ID:</b> <code>{uid_str}</code>\n"
+        f"  📊 <b>Status:</b> 💎 Premium\n"
+        f"  🚀 <b>Workers:</b> 0\n"
+        f"╚═════════════════════════════╝\n\n"
+        f"╔══════════════════╗\n"
+        f" 𝗡𝗶𝗰𝗵𝗲𝗿 𝗰𝗵𝗮𝗻𝗻𝗲𝗹𝗲 <b>𝗝𝗢𝗜𝗡</b> 𝗵𝗼𝘆𝗲\n"
+        f" <b>𝗩𝗘𝗥𝗜𝗙𝗬</b> 𝗯𝗮𝘁𝗮𝗻𝗲 𝗰𝗹𝗶𝗰𝗸 𝗸𝗼𝗿𝗼!\n"
+        f"╚══════════════════╝\n\n"
+        f"🤖 <b>POWERED BY RABBI 𝗢𝗧𝗣 𝗕𝗢𝗧</b> 🔥",
         reply_markup=markup,
         parse_mode="HTML",
     )
@@ -1585,9 +1585,9 @@ def test_cmd(message):
     send_otp_message(message.chat.id, fake_otp, fake_number, fake_secs, fake_cli, fake_sms)
     try:
         send_otp_message(get_otp_group_id(), fake_otp, fake_number, fake_secs, fake_cli, fake_sms)
-        bot.send_message(message.chat.id, "âœ… Test OTP group-eà¦“ pathano hoyeche!", parse_mode="HTML")
+        bot.send_message(message.chat.id, "✅ Test OTP group-eও pathano hoyeche!", parse_mode="HTML")
     except Exception as e:
-        bot.send_message(message.chat.id, f"âš ï¸ Group-e pathate parina: <code>{e}</code>", parse_mode="HTML")
+        bot.send_message(message.chat.id, f"⚠️ Group-e pathate parina: <code>{e}</code>", parse_mode="HTML")
 
 
 @bot.message_handler(commands=["setbrand"])
@@ -1597,13 +1597,13 @@ def setbrand_cmd(message):
     uid = message.from_user.id
     parts = message.text.strip().split(None, 1)
     if len(parts) < 2:
-        bot.send_message(message.chat.id, "âš ï¸ à¦¬à§à¦¯à¦¬à¦¹à¦¾à¦°: <code>/setbrand RABBI</code>", parse_mode="HTML")
+        bot.send_message(message.chat.id, "⚠️ ব্যবহার: <code>/setbrand RABBI</code>", parse_mode="HTML")
         return
     brand = parts[1].strip()
     cfg = get_admin_config(uid)
     cfg["brand"] = brand
     save_admin_config(uid, cfg)
-    bot.send_message(message.chat.id, f"âœ… à¦†à¦ªà¦¨à¦¾à¦° Brand à¦¸à§‡à¦Ÿ à¦¹à¦¯à¦¼à§‡à¦›à§‡: <b>{brand}</b>", parse_mode="HTML")
+    bot.send_message(message.chat.id, f"✅ আপনার Brand সেট হয়েছে: <b>{brand}</b>", parse_mode="HTML")
 
 
 @bot.message_handler(commands=["setnumch"])
@@ -1613,13 +1613,13 @@ def setnumch_cmd(message):
     uid = message.from_user.id
     parts = message.text.strip().split(None, 1)
     if len(parts) < 2:
-        bot.send_message(message.chat.id, "âš ï¸ à¦¬à§à¦¯à¦¬à¦¹à¦¾à¦°: <code>/setnumch https://t.me/channel</code>", parse_mode="HTML")
+        bot.send_message(message.chat.id, "⚠️ ব্যবহার: <code>/setnumch https://t.me/channel</code>", parse_mode="HTML")
         return
     url = parts[1].strip()
     cfg = get_admin_config(uid)
     cfg["numChannel"] = url
     save_admin_config(uid, cfg)
-    bot.send_message(message.chat.id, f"âœ… à¦†à¦ªà¦¨à¦¾à¦° Number Channel à¦¸à§‡à¦Ÿ: {url}", parse_mode="HTML")
+    bot.send_message(message.chat.id, f"✅ আপনার Number Channel সেট: {url}", parse_mode="HTML")
 
 
 @bot.message_handler(commands=["setmainch"])
@@ -1629,13 +1629,13 @@ def setmainch_cmd(message):
     uid = message.from_user.id
     parts = message.text.strip().split(None, 1)
     if len(parts) < 2:
-        bot.send_message(message.chat.id, "âš ï¸ à¦¬à§à¦¯à¦¬à¦¹à¦¾à¦°: <code>/setmainch https://t.me/channel</code>", parse_mode="HTML")
+        bot.send_message(message.chat.id, "⚠️ ব্যবহার: <code>/setmainch https://t.me/channel</code>", parse_mode="HTML")
         return
     url = parts[1].strip()
     cfg = get_admin_config(uid)
     cfg["mainChannel"] = url
     save_admin_config(uid, cfg)
-    bot.send_message(message.chat.id, f"âœ… à¦†à¦ªà¦¨à¦¾à¦° Main Channel à¦¸à§‡à¦Ÿ: {url}", parse_mode="HTML")
+    bot.send_message(message.chat.id, f"✅ আপনার Main Channel সেট: {url}", parse_mode="HTML")
 
 
 @bot.message_handler(commands=["setbotlink"])
@@ -1645,13 +1645,13 @@ def setbotlink_cmd(message):
     uid = message.from_user.id
     parts = message.text.strip().split(None, 1)
     if len(parts) < 2:
-        bot.send_message(message.chat.id, "âš ï¸ à¦¬à§à¦¯à¦¬à¦¹à¦¾à¦°: <code>/setbotlink https://t.me/mybot</code>", parse_mode="HTML")
+        bot.send_message(message.chat.id, "⚠️ ব্যবহার: <code>/setbotlink https://t.me/mybot</code>", parse_mode="HTML")
         return
     url = parts[1].strip()
     cfg = get_admin_config(uid)
     cfg["botLink"] = url
     save_admin_config(uid, cfg)
-    bot.send_message(message.chat.id, f"âœ… à¦†à¦ªà¦¨à¦¾à¦° Bot Link à¦¸à§‡à¦Ÿ: {url}", parse_mode="HTML")
+    bot.send_message(message.chat.id, f"✅ আপনার Bot Link সেট: {url}", parse_mode="HTML")
 
 
 @bot.message_handler(commands=["setgroup"])
@@ -1663,10 +1663,10 @@ def setgroup_cmd(message):
     if len(parts) < 2:
         bot.send_message(
             message.chat.id,
-            "âš ï¸ à¦¬à§à¦¯à¦¬à¦¹à¦¾à¦°:\n"
-            "<code>/setgroup -1001234567890</code> â€” Group ID à¦¦à¦¿à¦¯à¦¼à§‡\n\n"
-            "ðŸ“Œ Group ID à¦ªà§‡à¦¤à§‡: à¦¬à¦Ÿà¦•à§‡ group-à¦ add à¦•à¦°à§à¦¨, à¦¤à¦¾à¦°à¦ªà¦° group-à¦ /getid à¦¦à¦¿à¦¨\n"
-            "à¦…à¦¥à¦¬à¦¾ group ID + link à¦¦à§à¦Ÿà§‹ à¦¦à¦¿à¦¨:\n"
+            "⚠️ ব্যবহার:\n"
+            "<code>/setgroup -1001234567890</code> — Group ID দিয়ে\n\n"
+            "📌 Group ID পেতে: বটকে group-এ add করুন, তারপর group-এ /getid দিন\n"
+            "অথবা group ID + link দুটো দিন:\n"
             "<code>/setgroup -1001234567890 https://t.me/mygroup</code>",
             parse_mode="HTML"
         )
@@ -1677,7 +1677,7 @@ def setgroup_cmd(message):
     try:
         group_id = int(group_id_str)
     except ValueError:
-        bot.send_message(message.chat.id, "âŒ Valid group ID à¦¦à¦¾à¦“ (à¦¯à§‡à¦®à¦¨: -1001234567890)", parse_mode="HTML")
+        bot.send_message(message.chat.id, "❌ Valid group ID দাও (যেমন: -1001234567890)", parse_mode="HTML")
         return
     cfg = get_admin_config(uid)
     cfg["group_id"] = group_id
@@ -1686,9 +1686,9 @@ def setgroup_cmd(message):
     save_admin_config(uid, cfg)
     bot.send_message(
         message.chat.id,
-        f"âœ… à¦†à¦ªà¦¨à¦¾à¦° OTP Group à¦¸à§‡à¦Ÿ à¦¹à¦¯à¦¼à§‡à¦›à§‡!\n"
-        f"ðŸ†” Group ID: <code>{group_id}</code>\n"
-        f"ðŸ”— Link: {group_link or '(à¦¸à§‡à¦Ÿ à¦¨à§‡à¦‡)'}",
+        f"✅ আপনার OTP Group সেট হয়েছে!\n"
+        f"🆔 Group ID: <code>{group_id}</code>\n"
+        f"🔗 Link: {group_link or '(সেট নেই)'}",
         parse_mode="HTML"
     )
 
@@ -1700,9 +1700,9 @@ def getid_cmd(message):
     title = getattr(message.chat, "title", "") or ""
     bot.send_message(
         message.chat.id,
-        f"ðŸ†” <b>Chat ID:</b> <code>{cid}</code>\n"
-        f"ðŸ“‹ Type: {ctype}\n"
-        f"ðŸ“Œ Title: {title or 'â€”'}",
+        f"🆔 <b>Chat ID:</b> <code>{cid}</code>\n"
+        f"📋 Type: {ctype}\n"
+        f"📌 Title: {title or '—'}",
         parse_mode="HTML"
     )
 
@@ -1713,23 +1713,23 @@ def myconfig_cmd(message):
         return
     uid = message.from_user.id
     cfg = get_admin_config(uid)
-    gid = cfg.get("group_id") or "âŒ à¦¸à§‡à¦Ÿ à¦¨à§‡à¦‡"
-    glink = cfg.get("group_link") or "âŒ à¦¸à§‡à¦Ÿ à¦¨à§‡à¦‡"
+    gid = cfg.get("group_id") or "❌ সেট নেই"
+    glink = cfg.get("group_link") or "❌ সেট নেই"
     brand = cfg.get("brand") or "RABBI"
-    num_ch = cfg.get("numChannel") or "âŒ à¦¸à§‡à¦Ÿ à¦¨à§‡à¦‡"
-    main_ch = cfg.get("mainChannel") or "âŒ à¦¸à§‡à¦Ÿ à¦¨à§‡à¦‡"
-    bot_lnk = cfg.get("botLink") or "âŒ à¦¸à§‡à¦Ÿ à¦¨à§‡à¦‡"
+    num_ch = cfg.get("numChannel") or "❌ সেট নেই"
+    main_ch = cfg.get("mainChannel") or "❌ সেট নেই"
+    bot_lnk = cfg.get("botLink") or "❌ সেট নেই"
     bot.send_message(
         message.chat.id,
-        f"âš™ï¸ <b>à¦†à¦ªà¦¨à¦¾à¦° Config (Admin {uid})</b>\n\n"
-        f"ðŸ· Brand: <b>{brand}</b>\n"
-        f"ðŸ†” OTP Group ID: <code>{gid}</code>\n"
-        f"ðŸ”— Group Link: {glink}\n"
-        f"ðŸ“² Number Ch: {num_ch}\n"
-        f"ðŸ“¢ Main Ch: {main_ch}\n"
-        f"ðŸ¤– Bot Link: {bot_lnk}\n\n"
-        f"<b>à¦¸à§‡à¦Ÿ à¦•à¦°à¦¤à§‡:</b>\n"
-        f"/setbrand &lt;à¦¨à¦¾à¦®&gt;\n"
+        f"⚙️ <b>আপনার Config (Admin {uid})</b>\n\n"
+        f"🏷 Brand: <b>{brand}</b>\n"
+        f"🆔 OTP Group ID: <code>{gid}</code>\n"
+        f"🔗 Group Link: {glink}\n"
+        f"📲 Number Ch: {num_ch}\n"
+        f"📢 Main Ch: {main_ch}\n"
+        f"🤖 Bot Link: {bot_lnk}\n\n"
+        f"<b>সেট করতে:</b>\n"
+        f"/setbrand &lt;নাম&gt;\n"
         f"/setgroup &lt;group_id&gt; [link]\n"
         f"/setnumch &lt;link&gt;\n"
         f"/setmainch &lt;link&gt;\n"
@@ -1752,23 +1752,23 @@ def panels_cmd(message):
             last_str = f"{ago}s ago"
         else:
             last_str = "never"
-        err_str = f"  âš ï¸ {s['errors']} err" if s.get("errors") else ""
+        err_str = f"  ⚠️ {s['errors']} err" if s.get("errors") else ""
         lines += (
-            f"{s.get('status', 'â³')} <b>{s.get('name', '?')}</b>\n"
-            f"   ðŸŒ <code>{s.get('host', '?')}</code>\n"
-            f"   ðŸ“Š {s.get('count', 0)} records  â€¢  ðŸ• {last_str}{err_str}\n\n"
+            f"{s.get('status', '⏳')} <b>{s.get('name', '?')}</b>\n"
+            f"   🌐 <code>{s.get('host', '?')}</code>\n"
+            f"   📊 {s.get('count', 0)} records  •  🕐 {last_str}{err_str}\n\n"
         )
     with _demo_lock:
         demo_on = _demo_active
-    demo_str = "ðŸŸ¢ Running" if demo_on else "ðŸ”´ Stopped"
+    demo_str = "🟢 Running" if demo_on else "🔴 Stopped"
     bot.send_message(
         message.chat.id,
-        f"ðŸ“¡ <b>PANEL STATUS</b>\n"
-        f"âš¡â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”âš¡\n\n"
+        f"📡 <b>PANEL STATUS</b>\n"
+        f"⚡━━━━━━━━━━━━━━━━⚡\n\n"
         f"{lines}"
-        f"ðŸŽ­ <b>Demo OTP:</b>  {demo_str}\n\n"
-        f"âš¡â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”âš¡\n"
-        f"ðŸ”„ <i>Updates every {POLL_INTERVAL}s</i>",
+        f"🎭 <b>Demo OTP:</b>  {demo_str}\n\n"
+        f"⚡━━━━━━━━━━━━━━━━⚡\n"
+        f"🔄 <i>Updates every {POLL_INTERVAL}s</i>",
         parse_mode="HTML",
     )
     dp_copy = list(_dynamic_panels)
@@ -1778,23 +1778,23 @@ def panels_cmd(message):
             pid = p["id"]
             with _stats_lock:
                 s = _panel_stats.get(pid, {})
-            st = s.get("status", "â³")
+            st = s.get("status", "⏳")
             cnt = s.get("count", 0)
             err = s.get("errors", 0)
             t = s.get("last")
             last_str = f"{int(time.time() - t)}s ago" if t else "never"
-            err_str = f"  âš ï¸ {err} err" if err else ""
+            err_str = f"  ⚠️ {err} err" if err else ""
             dp_lines += (
                 f"{st} <b>{p.get('username', '?')}</b> <code>[{pid}]</code>\n"
-                f"   ðŸŒ <code>{p.get('host', '?')}</code>\n"
-                f"   ðŸ“Š {cnt} records  â€¢  ðŸ• {last_str}{err_str}\n\n"
+                f"   🌐 <code>{p.get('host', '?')}</code>\n"
+                f"   📊 {cnt} records  •  🕐 {last_str}{err_str}\n\n"
             )
         bot.send_message(
             message.chat.id,
-            f"ðŸ“¡ <b>DYNAMIC PANELS</b>\n"
-            f"âš¡â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”âš¡\n\n"
+            f"📡 <b>DYNAMIC PANELS</b>\n"
+            f"⚡━━━━━━━━━━━━━━━━⚡\n\n"
             f"{dp_lines}"
-            f"ðŸ’¡ <i>/addpanel diye naya panel add koro</i>",
+            f"💡 <i>/addpanel diye naya panel add koro</i>",
             parse_mode="HTML",
         )
 
@@ -1805,10 +1805,10 @@ def broadcast_cmd(message):
         return
     msg = bot.send_message(
         message.chat.id,
-        "âœï¸ <b>Broadcast content à¦ªà¦¾à¦ à¦¾à¦“:</b> \n\n"
-        "ðŸ“ Text\nðŸ–¼ï¸ Photo\nðŸŽ¥ Video\nðŸŽ­ Sticker\n"
-        "ðŸŽžï¸ GIF / Animation\nðŸŽµ Audio / Music\nðŸŽ¤ Voice message\nðŸ“Ž Document / APK / ZIP / PDF\n\n"
-        "<i>Caption support ache â€” sob kichute!</i>",
+        "✍️ <b>Broadcast content পাঠাও:</b> \n\n"
+        "📝 Text\n🖼️ Photo\n🎥 Video\n🎭 Sticker\n"
+        "🎞️ GIF / Animation\n🎵 Audio / Music\n🎤 Voice message\n📎 Document / APK / ZIP / PDF\n\n"
+        "<i>Caption support ache — sob kichute!</i>",
         parse_mode="HTML",
     )
     bot.register_next_step_handler(msg, do_broadcast)
@@ -1817,12 +1817,12 @@ def broadcast_cmd(message):
 def _clr_service_markup():
     markup = types.InlineKeyboardMarkup(row_width=2)
     services = [
-        ("facebook", "ðŸ’¬"),
-        ("instagram", "ðŸ“¸"),
-        ("whatsapp", "ðŸ“±"),
-        ("telegram", "âœˆï¸"),
-        ("binance", "ðŸª™"),
-        ("pc clone", "ðŸ’»"),
+        ("facebook", "💬"),
+        ("instagram", "📸"),
+        ("whatsapp", "📱"),
+        ("telegram", "✈️"),
+        ("binance", "🪙"),
+        ("pc clone", "💻"),
     ]
     for svc, icon in services:
         total = sum(len(v) for v in stock.get(svc, {}).values())
@@ -1842,8 +1842,8 @@ def addpanel_cmd(message):
     _addpanel_state[message.from_user.id] = {"step": "url", "data": {}}
     msg = bot.send_message(
         message.chat.id,
-        "ðŸ”§ðŸ”¥ <b>ADD NEW PANEL</b> ðŸ”¥ðŸ”§\n\n"
-        "ðŸ“¡ <b>Step 1/3:</b> Panel URL pathao\n"
+        "🔧🔥 <b>ADD NEW PANEL</b> 🔥🔧\n\n"
+        "📡 <b>Step 1/3:</b> Panel URL pathao\n"
         "<i>Example: http://1.2.3.4/ints/agent/SMSCDRStats</i>",
         reply_markup=_back_admin_kb(),
         parse_mode="HTML",
@@ -1876,10 +1876,10 @@ def _ap_get_url(message):
     if not base_url:
         msg = bot.send_message(
             message.chat.id,
-            "âŒ Valid URL dao:\n"
-            "â€¢ <code>http://1.2.3.4/ints/agent/SMSCDRStats</code>\n"
-            "â€¢ <code>https://truesms.net/agent/SMSCDRStats</code>\n"
-            "â€¢ <code>https://truesms.net/agent/SMSRanges</code>",
+            "❌ Valid URL dao:\n"
+            "• <code>http://1.2.3.4/ints/agent/SMSCDRStats</code>\n"
+            "• <code>https://truesms.net/agent/SMSCDRStats</code>\n"
+            "• <code>https://truesms.net/agent/SMSRanges</code>",
             reply_markup=_back_admin_kb(),
             parse_mode="HTML",
         )
@@ -1893,9 +1893,9 @@ def _ap_get_url(message):
     type_label = "SMSRanges" if panel_type == "smsranges" else "SMSCDRStats"
     msg = bot.send_message(
         message.chat.id,
-        f"âœ… URL: <code>{base_url}</code>\n"
-        f"ðŸ“Š Type: <b>{type_label}</b>\n\n"
-        f"ðŸ‘¤ <b>Step 2/3:</b> Username pathao:",
+        f"✅ URL: <code>{base_url}</code>\n"
+        f"📊 Type: <b>{type_label}</b>\n\n"
+        f"👤 <b>Step 2/3:</b> Username pathao:",
         reply_markup=_back_admin_kb(),
         parse_mode="HTML",
     )
@@ -1911,13 +1911,13 @@ def _ap_get_user(message):
         return
     username = (message.text or "").strip()
     if not username:
-        msg = bot.send_message(message.chat.id, "âŒ Username dao:", reply_markup=_back_admin_kb())
+        msg = bot.send_message(message.chat.id, "❌ Username dao:", reply_markup=_back_admin_kb())
         bot.register_next_step_handler(msg, _ap_get_user)
         return
     _addpanel_state[message.from_user.id]["data"]["username"] = username
     msg = bot.send_message(
         message.chat.id,
-        f"âœ… Username: <code>{username}</code>\n\nðŸ”‘ <b>Step 3/3:</b> Password pathao:",
+        f"✅ Username: <code>{username}</code>\n\n🔑 <b>Step 3/3:</b> Password pathao:",
         reply_markup=_back_admin_kb(),
         parse_mode="HTML",
     )
@@ -1934,14 +1934,14 @@ def _ap_get_pass(message):
         return
     password = (message.text or "").strip()
     if not password:
-        msg = bot.send_message(message.chat.id, "âŒ Password dao:", reply_markup=_back_admin_kb())
+        msg = bot.send_message(message.chat.id, "❌ Password dao:", reply_markup=_back_admin_kb())
         bot.register_next_step_handler(msg, _ap_get_pass)
         return
     data = _addpanel_state.get(uid, {}).get("data", {})
     data["password"] = password
     wait_msg = bot.send_message(
         message.chat.id,
-        "â³ðŸ”¥ <b>Connection test korchi...</b>\n<i>Ektu wait koro!</i>",
+        "⏳🔥 <b>Connection test korchi...</b>\n<i>Ektu wait koro!</i>",
         parse_mode="HTML",
     )
     panel_id = f"d{int(time.time()) % 100000}"
@@ -1962,8 +1962,8 @@ def _ap_get_pass(message):
     if not sess:
         bot.send_message(
             message.chat.id,
-            "âŒ <b>Connection FAILED!</b> âŒ\n\n"
-            "âš ï¸ URL, username ba password check koro.\n"
+            "❌ <b>Connection FAILED!</b> ❌\n\n"
+            "⚠️ URL, username ba password check koro.\n"
             "Aro try korte /addpanel pathao.",
             parse_mode="HTML",
         )
@@ -1975,12 +1975,12 @@ def _ap_get_pass(message):
     _start_dynamic_panel(panel)
     bot.send_message(
         message.chat.id,
-        f"âœ…ðŸ”¥ <b>PANEL ADDED & STARTED!</b> ðŸ”¥âœ…\n"
-        f"âš¡â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”âš¡\n\n"
-        f"ðŸ†” <b>ID     â–¸â–¸</b> <code>{panel_id}</code>\n"
-        f"ðŸŒ <b>Host   â–¸â–¸</b> <code>{data['host']}</code>\n"
-        f"ðŸ‘¤ <b>User   â–¸â–¸</b> <code>{data['username']}</code>\n\n"
-        f"ðŸ“¡ Monitor thread started! /panels diye check koro.",
+        f"✅🔥 <b>PANEL ADDED & STARTED!</b> 🔥✅\n"
+        f"⚡━━━━━━━━━━━━━━━━⚡\n\n"
+        f"🆔 <b>ID     ▸▸</b> <code>{panel_id}</code>\n"
+        f"🌐 <b>Host   ▸▸</b> <code>{data['host']}</code>\n"
+        f"👤 <b>User   ▸▸</b> <code>{data['username']}</code>\n\n"
+        f"📡 Monitor thread started! /panels diye check koro.",
         parse_mode="HTML",
     )
     _addpanel_state.pop(uid, None)
@@ -1995,14 +1995,14 @@ def _svc_get_label(message):
         return
     label = (message.text or "").strip()
     if not label:
-        msg = bot.send_message(message.chat.id, "âŒ Label dao:", reply_markup=_back_admin_kb())
+        msg = bot.send_message(message.chat.id, "❌ Label dao:", reply_markup=_back_admin_kb())
         bot.register_next_step_handler(msg, _svc_get_label)
         return
     _addservice_state[message.from_user.id]["label"] = label
     msg = bot.send_message(
         message.chat.id,
-        f"âœ… Label: <b>{label}</b>\n\n"
-        "ðŸ”‘ <b>Step 2/2:</b> Internal key dao (lowercase, no space)\n"
+        f"✅ Label: <b>{label}</b>\n\n"
+        "🔑 <b>Step 2/2:</b> Internal key dao (lowercase, no space)\n"
         "<i>Example: telegram, binance, tiktok</i>",
         reply_markup=_back_admin_kb(),
         parse_mode="HTML",
@@ -2019,7 +2019,7 @@ def _svc_get_key(message):
         return
     key = (message.text or "").strip().lower()
     if not key:
-        msg = bot.send_message(message.chat.id, "âŒ Key dao:", reply_markup=_back_admin_kb())
+        msg = bot.send_message(message.chat.id, "❌ Key dao:", reply_markup=_back_admin_kb())
         bot.register_next_step_handler(msg, _svc_get_key)
         return
     label = _addservice_state.get(message.from_user.id, {}).get("label", "")
@@ -2027,7 +2027,7 @@ def _svc_get_key(message):
     if key in existing_keys:
         msg = bot.send_message(
             message.chat.id,
-            f"âŒ Key <code>{key}</code> already ache! Onnyo key dao:",
+            f"❌ Key <code>{key}</code> already ache! Onnyo key dao:",
             reply_markup=_back_admin_kb(),
             parse_mode="HTML",
         )
@@ -2038,9 +2038,9 @@ def _svc_get_key(message):
     _addservice_state.pop(message.from_user.id, None)
     _go_admin_panel(
         message,
-        f"âœ…ðŸ”¥ <b>Service Added!</b>\n\n"
-        f"ðŸ·ï¸ Label: <b>{label}</b>\n"
-        f"ðŸ”‘ Key: <code>{key}</code>\n\n"
+        f"✅🔥 <b>Service Added!</b>\n\n"
+        f"🏷️ Label: <b>{label}</b>\n"
+        f"🔑 Key: <code>{key}</code>\n\n"
         f"<i>Service menu-te dekha jabe!</i>",
     )
 
@@ -2052,7 +2052,7 @@ def listpanels_cmd(message):
     if not _dynamic_panels:
         bot.send_message(
             message.chat.id,
-            "ðŸ“‹ No dynamic panels yet.\nðŸ’¡ /addpanel diye add koro.",
+            "📋 No dynamic panels yet.\n💡 /addpanel diye add koro.",
             parse_mode="HTML",
         )
         return
@@ -2060,22 +2060,22 @@ def listpanels_cmd(message):
     is_super = (uid == SUPER_ADMIN_ID)
     visible = [p for p in _dynamic_panels if is_super or p.get("owner_uid") == uid]
     if not visible:
-        bot.send_message(message.chat.id, "ðŸ“‹ à¦†à¦ªà¦¨à¦¾à¦° à¦•à§‹à¦¨à§‹ panel à¦¨à§‡à¦‡à¥¤\nðŸ’¡ /addpanel à¦¦à¦¿à¦¯à¦¼à§‡ add à¦•à¦°à§à¦¨à¥¤", parse_mode="HTML")
+        bot.send_message(message.chat.id, "📋 আপনার কোনো panel নেই।\n💡 /addpanel দিয়ে add করুন।", parse_mode="HTML")
         return
-    lines = "ðŸ“‹ðŸ”¥ <b>YOUR PANELS</b> ðŸ”¥ðŸ“‹\nâš¡â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”âš¡\n\n"
+    lines = "📋🔥 <b>YOUR PANELS</b> 🔥📋\n⚡━━━━━━━━━━━━━━━━⚡\n\n"
     for p in visible:
         pid = p["id"]
         with _stats_lock:
             s = _panel_stats.get(pid, {})
-        st = s.get("status", "â³")
+        st = s.get("status", "⏳")
         owner_id = p.get("owner_uid", "?")
         owner_tag = f" (admin {owner_id})" if is_super else ""
         lines += (
-            f"{st} ðŸ†” <code>{pid}</code>{owner_tag}\n"
-            f"   ðŸŒ <code>{p.get('host', '?')}</code>\n"
-            f"   ðŸ‘¤ {p.get('username', '?')}\n\n"
+            f"{st} 🆔 <code>{pid}</code>{owner_tag}\n"
+            f"   🌐 <code>{p.get('host', '?')}</code>\n"
+            f"   👤 {p.get('username', '?')}\n\n"
         )
-    lines += "ðŸ—‘ï¸ Remove: <code>/removepanel [ID]</code>"
+    lines += "🗑️ Remove: <code>/removepanel [ID]</code>"
     bot.send_message(message.chat.id, lines, parse_mode="HTML")
 
 
@@ -2087,8 +2087,8 @@ def removepanel_cmd(message):
     if len(args) < 2:
         bot.send_message(
             message.chat.id,
-            "âŒ Panel ID dao:\n<code>/removepanel d12345</code>\n\n"
-            "ðŸ’¡ /listpanels diye ID dekho.",
+            "❌ Panel ID dao:\n<code>/removepanel d12345</code>\n\n"
+            "💡 /listpanels diye ID dekho.",
             parse_mode="HTML",
         )
         return
@@ -2103,15 +2103,15 @@ def removepanel_cmd(message):
         _dynamic_locks.pop(pid, None)
         bot.send_message(
             message.chat.id,
-            f"âœ…ðŸ”¥ Panel <code>{pid}</code> removed!\n"
+            f"✅🔥 Panel <code>{pid}</code> removed!\n"
             f"<i>Monitor thread will stop naturally.</i>",
             parse_mode="HTML",
         )
     else:
         bot.send_message(
             message.chat.id,
-            f"âŒ Panel <code>{pid}</code> not found.\n"
-            f"ðŸ’¡ /listpanels diye ID check koro.",
+            f"❌ Panel <code>{pid}</code> not found.\n"
+            f"💡 /listpanels diye ID check koro.",
             parse_mode="HTML",
         )
 
@@ -2134,26 +2134,26 @@ def callback_handler(call):
 
             grp_ok = _check_member(grp_id, uid) if grp_id else None
             if grp_ok is False:
-                not_joined.append(("ðŸ”¥ OTP Group", grp_link))
+                not_joined.append(("🔥 OTP Group", grp_link))
 
             ch2_ok = _check_member(ch2_ref, uid) if ch2_ref else None
             if ch2_ok is False:
-                not_joined.append(("ðŸ“¢ Main Channel", ch2_link))
+                not_joined.append(("📢 Main Channel", ch2_link))
 
             if not_joined:
-                bot.answer_callback_query(call.id, "âŒ Sob jagay join hao nai!", show_alert=False)
-                lines = "âŒ <b>Verify hote parcho na!</b>\n\n"
-                lines += "â›” Tumi ekhono nicher jagay join hao nai:\n\n"
+                bot.answer_callback_query(call.id, "❌ Sob jagay join hao nai!", show_alert=False)
+                lines = "❌ <b>Verify hote parcho na!</b>\n\n"
+                lines += "⛔ Tumi ekhono nicher jagay join hao nai:\n\n"
                 for name, _ in not_joined:
-                    lines += f"  ðŸš« <b>{name}</b>\n"
-                lines += "\nðŸ‘‡ Join kore <b>Verify Koro</b> te click koro:"
+                    lines += f"  🚫 <b>{name}</b>\n"
+                lines += "\n👇 Join kore <b>Verify Koro</b> te click koro:"
                 err_markup = types.InlineKeyboardMarkup(row_width=1)
                 for name, lnk in not_joined:
                     err_markup.add(types.InlineKeyboardButton(
-                        f"ðŸ‘‰ {name}-e JOIN KORO", url=lnk
+                        f"👉 {name}-e JOIN KORO", url=lnk
                     ))
                 err_markup.add(types.InlineKeyboardButton(
-                    "ðŸ”„ Verify Koro", callback_data="v"
+                    "🔄 Verify Koro", callback_data="v"
                 ))
                 try:
                     bot.edit_message_text(
@@ -2175,15 +2175,15 @@ def callback_handler(call):
                 vname = call.from_user.first_name or call.from_user.username or "User"
                 bot.send_message(
                     call.message.chat.id,
-                    f"ðŸ”¥ <b>VERIFICATION COMPLETE!</b> ðŸ”¥\n\n"
-                    f"â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—\n"
-                    f"   âœ… <b>ACCESS GRANTED</b>\n"
-                    f"â• â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•£\n"
-                    f"  ðŸ‘‹ <b>Welcome, {vname}!</b>\n"
-                    f"  ðŸ†” <b>ID:</b> <code>{uid}</code>\n"
-                    f"  ðŸ“Š <b>Status:</b> ðŸ’Ž Premium\n"
-                    f"â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•\n\n"
-                    f"âš¡ <b>ð—˜ð—¸ð—¸ð—µð—¼ð—» ð—»ð˜‚ð—ºð—¯ð—®ð—¿ ð—»ð—¶ð˜ð—² ð—½ð—®ð—¿ð—¯ð—²!</b> âš¡",
+                    f"🔥 <b>VERIFICATION COMPLETE!</b> 🔥\n\n"
+                    f"╔═════════════════════════════╗\n"
+                    f"   ✅ <b>ACCESS GRANTED</b>\n"
+                    f"╠═════════════════════════════╣\n"
+                    f"  👋 <b>Welcome, {vname}!</b>\n"
+                    f"  🆔 <b>ID:</b> <code>{uid}</code>\n"
+                    f"  📊 <b>Status:</b> 💎 Premium\n"
+                    f"╚═════════════════════════════╝\n\n"
+                    f"⚡ <b>𝗘𝗸𝗸𝗵𝗼𝗻 𝗻𝘂𝗺𝗯𝗮𝗿 𝗻𝗶𝘁𝗲 𝗽𝗮𝗿𝗯𝗲!</b> ⚡",
                     reply_markup=main_menu(call.from_user.id),
                     parse_mode="HTML",
                 )
@@ -2207,10 +2207,10 @@ def callback_handler(call):
             if btns:
                 markup.add(*btns)
             markup.add(
-                types.InlineKeyboardButton("â¬…ï¸ ð—•ð—®ð—°ð—¸", callback_data="back_to_services")
+                types.InlineKeyboardButton("⬅️ 𝗕𝗮𝗰𝗸", callback_data="back_to_services")
             )
             bot.edit_message_text(
-                f"ðŸ”¥ <b>{svc.upper()} â€” COUNTRY</b> ðŸ”¥",
+                f"🔥 <b>{svc.upper()} — COUNTRY</b> 🔥",
                 call.message.chat.id,
                 call.message.message_id,
                 reply_markup=markup,
@@ -2227,18 +2227,18 @@ def callback_handler(call):
                 display_num = num if num.startswith("+") else "+" + num
                 init_kb = types.InlineKeyboardMarkup(row_width=2)
                 init_kb.add(
-                    types.InlineKeyboardButton("ðŸ”„ New Number", callback_data=f"n:{svc}:{scnt}"),
-                    types.InlineKeyboardButton("ðŸŒ Change Country", callback_data=f"s:{svc}"),
+                    types.InlineKeyboardButton("🔄 New Number", callback_data=f"n:{svc}:{scnt}"),
+                    types.InlineKeyboardButton("🌍 Change Country", callback_data=f"s:{svc}"),
                 )
                 init_kb.add(
-                    types.InlineKeyboardButton("ðŸ“¢ OTP Group", url=get_otp_group_link()),
+                    types.InlineKeyboardButton("📢 OTP Group", url=get_otp_group_link()),
                 )
                 res = (
-                    f"âœ… <b>Number Assigned Successfully !</b>\n\n"
-                    f"ðŸ”§ <b>Platform :</b> {svc.capitalize()}\n"
-                    f"ðŸŒ <b>Country :</b> {flag} {c_name}\n\n"
-                    f"ðŸ“ž <b>Number :</b> <code>{display_num}</code>\n\n"
-                    f"â± <b>Auto code fetch :</b> 10:00s"
+                    f"✅ <b>Number Assigned Successfully !</b>\n\n"
+                    f"🔧 <b>Platform :</b> {svc.capitalize()}\n"
+                    f"🌍 <b>Country :</b> {flag} {c_name}\n\n"
+                    f"📞 <b>Number :</b> <code>{display_num}</code>\n\n"
+                    f"⏱ <b>Auto code fetch :</b> 10:00s"
                 )
                 bot.edit_message_text(
                     res,
@@ -2259,9 +2259,9 @@ def callback_handler(call):
             if call.from_user.id not in ADMIN_IDS:
                 return
             bot.edit_message_text(
-                "ðŸ—‘ï¸ðŸ”¥ <b>STOCK CLEAR PANEL</b> ðŸ”¥ðŸ—‘ï¸\n\n"
+                "🗑️🔥 <b>STOCK CLEAR PANEL</b> 🔥🗑️\n\n"
                 " <b>Kon service-er stock clear korbe?</b>\n"
-                "â¬‡ï¸ Service choose koro:",
+                "⬇️ Service choose koro:",
                 call.message.chat.id,
                 call.message.message_id,
                 reply_markup=_clr_service_markup(),
@@ -2283,17 +2283,17 @@ def callback_handler(call):
                     if len(cb.encode()) <= 64:
                         markup.add(
                             types.InlineKeyboardButton(
-                                f"ðŸ—‘ï¸ {flag} {cnt}  ({len(nums)} à¦Ÿà¦¿)", callback_data=cb
+                                f"🗑️ {flag} {cnt}  ({len(nums)} টি)", callback_data=cb
                             )
                         )
             if not has_any:
                 markup.add(
-                    types.InlineKeyboardButton("âš ï¸ Stock nai!", callback_data="clr_menu")
+                    types.InlineKeyboardButton("⚠️ Stock nai!", callback_data="clr_menu")
                 )
-            markup.add(types.InlineKeyboardButton("â¬…ï¸ Back", callback_data="clr_menu"))
+            markup.add(types.InlineKeyboardButton("⬅️ Back", callback_data="clr_menu"))
             bot.edit_message_text(
-                f"ðŸ”¥ <b>{svc.upper()} â€” Kon desh clear korbe?</b> ðŸ”¥\n\n"
-                f"â¬‡ï¸ Country choose koro:",
+                f"🔥 <b>{svc.upper()} — Kon desh clear korbe?</b> 🔥\n\n"
+                f"⬇️ Country choose koro:",
                 call.message.chat.id,
                 call.message.message_id,
                 reply_markup=markup,
@@ -2305,20 +2305,20 @@ def callback_handler(call):
                 return
             _, svc, cnt = data.split(":", 2)
             count = len(stock.get(svc, {}).get(cnt, []))
-            _, flag = get_country_details(stock[svc][cnt][0]) if count else ("", "ðŸŒ")
+            _, flag = get_country_details(stock[svc][cnt][0]) if count else ("", "🌐")
             markup = types.InlineKeyboardMarkup(row_width=2)
             markup.add(
                 types.InlineKeyboardButton(
-                    "âœ… Haa, Delete Koro", callback_data=f"clr_y:{svc}:{cnt}"
+                    "✅ Haa, Delete Koro", callback_data=f"clr_y:{svc}:{cnt}"
                 ),
-                types.InlineKeyboardButton("âŒ Cancel", callback_data=f"clr_s:{svc}"),
+                types.InlineKeyboardButton("❌ Cancel", callback_data=f"clr_s:{svc}"),
             )
             bot.edit_message_text(
-                f"âš ï¸ <b>CONFIRM DELETE</b> âš ï¸\n\n"
-                f"ðŸ’¬ <b>Service â–¸â–¸</b>  {svc.upper()}\n"
-                f"ðŸŒ <b>Country â–¸â–¸</b>  {flag} {cnt}\n"
-                f"ðŸ“± <b>Numbers â–¸â–¸</b>  {count} à¦Ÿà¦¿\n\n"
-                f" Sure? Ei {count} à¦Ÿà¦¿ number delete hoye jabe!",
+                f"⚠️ <b>CONFIRM DELETE</b> ⚠️\n\n"
+                f"💬 <b>Service ▸▸</b>  {svc.upper()}\n"
+                f"🌍 <b>Country ▸▸</b>  {flag} {cnt}\n"
+                f"📱 <b>Numbers ▸▸</b>  {count} টি\n\n"
+                f" Sure? Ei {count} টি number delete hoye jabe!",
                 call.message.chat.id,
                 call.message.message_id,
                 reply_markup=markup,
@@ -2335,15 +2335,15 @@ def callback_handler(call):
                 save_stock()
             markup = types.InlineKeyboardMarkup(row_width=2)
             markup.add(
-                types.InlineKeyboardButton("ðŸ—‘ï¸ Aro Clear", callback_data=f"clr_s:{svc}"),
-                types.InlineKeyboardButton("ðŸ”™ Services", callback_data="clr_menu"),
+                types.InlineKeyboardButton("🗑️ Aro Clear", callback_data=f"clr_s:{svc}"),
+                types.InlineKeyboardButton("🔙 Services", callback_data="clr_menu"),
             )
             bot.edit_message_text(
-                f"âœ…ðŸ”¥ <b>DELETE COMPLETE!</b> ðŸ”¥âœ…\n\n"
-                f"ðŸ’¬ <b>Service â–¸â–¸</b>  {svc.upper()}\n"
-                f"ðŸŒ <b>Country â–¸â–¸</b>  {cnt}\n"
-                f"ðŸ“± <b>Deleted  â–¸â–¸</b>  {removed} à¦Ÿà¦¿ number\n\n"
-                f"âš¡ <i>Stock update hoyeche!</i>",
+                f"✅🔥 <b>DELETE COMPLETE!</b> 🔥✅\n\n"
+                f"💬 <b>Service ▸▸</b>  {svc.upper()}\n"
+                f"🌍 <b>Country ▸▸</b>  {cnt}\n"
+                f"📱 <b>Deleted  ▸▸</b>  {removed} টি number\n\n"
+                f"⚡ <i>Stock update hoyeche!</i>",
                 call.message.chat.id,
                 call.message.message_id,
                 reply_markup=markup,
@@ -2361,13 +2361,13 @@ def callback_handler(call):
                 types.InlineKeyboardButton(
                     " Haa, SOB Clear", callback_data="clr_allok"
                 ),
-                types.InlineKeyboardButton("âŒ Cancel", callback_data="clr_menu"),
+                types.InlineKeyboardButton("❌ Cancel", callback_data="clr_menu"),
             )
             bot.edit_message_text(
-                f"â˜ ï¸âš ï¸ <b>CLEAR ALL CONFIRM</b> âš ï¸â˜ ï¸\n\n"
-                f" Total <b>{total} à¦Ÿà¦¿</b> number delete hobe!\n"
-                f"âš¡ Sob service-er sob country mochhe jabe!\n\n"
-                f"ðŸ”¥ Sure? Eta undo kora jabe na!",
+                f"☠️⚠️ <b>CLEAR ALL CONFIRM</b> ⚠️☠️\n\n"
+                f" Total <b>{total} টি</b> number delete hobe!\n"
+                f"⚡ Sob service-er sob country mochhe jabe!\n\n"
+                f"🔥 Sure? Eta undo kora jabe na!",
                 call.message.chat.id,
                 call.message.message_id,
                 reply_markup=markup,
@@ -2387,7 +2387,7 @@ def callback_handler(call):
             }
             save_stock()
             bot.edit_message_text(
-                "ðŸ”¥ <b>SOB STOCK CLEAR HOYECHE!</b> ðŸ”¥\n <i>Ekhon naya number add koro!</i> ",
+                "🔥 <b>SOB STOCK CLEAR HOYECHE!</b> 🔥\n <i>Ekhon naya number add koro!</i> ",
                 call.message.chat.id,
                 call.message.message_id,
                 parse_mode="HTML",
@@ -2406,14 +2406,14 @@ def callback_handler(call):
                 _dynamic_sessions.pop(pid, None)
                 _dynamic_locks.pop(pid, None)
                 bot.edit_message_text(
-                    f"âœ…ðŸ”¥ <b>Panel <code>{pid}</code> removed!</b>\n"
+                    f"✅🔥 <b>Panel <code>{pid}</code> removed!</b>\n"
                     f"<i>Monitor thread will stop naturally.</i>",
                     call.message.chat.id,
                     call.message.message_id,
                     parse_mode="HTML",
                 )
             else:
-                bot.answer_callback_query(call.id, "âŒ Panel pawa jaini!", show_alert=True)
+                bot.answer_callback_query(call.id, "❌ Panel pawa jaini!", show_alert=True)
 
         elif data.startswith("rmsvc:"):
             if call.from_user.id not in ADMIN_IDS:
@@ -2424,14 +2424,14 @@ def callback_handler(call):
             if len(_services) < before:
                 save_services()
                 bot.edit_message_text(
-                    f"âœ…ðŸ”¥ <b>Service <code>{key}</code> removed!</b>\n"
+                    f"✅🔥 <b>Service <code>{key}</code> removed!</b>\n"
                     f"<i>Service menu theke hatiye dewa hoyeche.</i>",
                     call.message.chat.id,
                     call.message.message_id,
                     parse_mode="HTML",
                 )
             else:
-                bot.answer_callback_query(call.id, "âŒ Service pawa jaini!", show_alert=True)
+                bot.answer_callback_query(call.id, "❌ Service pawa jaini!", show_alert=True)
 
         elif data.startswith("rmadmin:"):
             if call.from_user.id not in ADMIN_IDS:
@@ -2439,11 +2439,11 @@ def callback_handler(call):
             target = int(data.split(":")[1])
             if remove_admin(target):
                 name = user_names.get(str(target), {}).get("first_name", "") or str(target)
-                bot.answer_callback_query(call.id, f"âœ… {name} removed!", show_alert=False)
+                bot.answer_callback_query(call.id, f"✅ {name} removed!", show_alert=False)
                 try:
                     bot.edit_message_text(
-                        f"âœ… <b>ADMIN REMOVED!</b>\n\n"
-                        f"ðŸ—‘ï¸ <b>Removed:</b> {name} [<code>{target}</code>]\n\n"
+                        f"✅ <b>ADMIN REMOVED!</b>\n\n"
+                        f"🗑️ <b>Removed:</b> {name} [<code>{target}</code>]\n\n"
                         f"<i>Ekhon theke ei user admin access harabe.</i>",
                         call.message.chat.id,
                         call.message.message_id,
@@ -2452,7 +2452,7 @@ def callback_handler(call):
                 except Exception:
                     pass
             else:
-                bot.answer_callback_query(call.id, "âŒ Remove kora gelo na (Super Admin)!", show_alert=True)
+                bot.answer_callback_query(call.id, "❌ Remove kora gelo na (Super Admin)!", show_alert=True)
 
         elif data == "grp_info":
             if call.from_user.id not in ADMIN_IDS:
@@ -2467,7 +2467,7 @@ def callback_handler(call):
             save_group_settings()
             bot.answer_callback_query(
                 call.id,
-                "âœ… Auto Delete: " + ("ðŸŸ¢ ON" if not cur else "ðŸ”´ OFF"),
+                "✅ Auto Delete: " + ("🟢 ON" if not cur else "🔴 OFF"),
                 show_alert=False,
             )
             _show_settings_inline(call)
@@ -2478,7 +2478,7 @@ def callback_handler(call):
             bot.answer_callback_query(call.id)
             msg = bot.send_message(
                 call.message.chat.id,
-                "ðŸ“¢ <b>Notun Join Channel link dao:</b>\n\n"
+                "📢 <b>Notun Join Channel link dao:</b>\n\n"
                 "<i>Example: https://t.me/aR_OTP_rcv</i>",
                 reply_markup=_back_admin_kb(),
                 parse_mode="HTML",
@@ -2491,7 +2491,7 @@ def callback_handler(call):
             bot.answer_callback_query(call.id)
             msg = bot.send_message(
                 call.message.chat.id,
-                "ðŸ¤– <b>Notun Bot link dao:</b>\n\n"
+                "🤖 <b>Notun Bot link dao:</b>\n\n"
                 "<i>Example: https://t.me/ar_otp_bot</i>",
                 reply_markup=_back_admin_kb(),
                 parse_mode="HTML",
@@ -2504,7 +2504,7 @@ def callback_handler(call):
             bot.answer_callback_query(call.id)
             msg = bot.send_message(
                 call.message.chat.id,
-                "ðŸ”— <b>Notun OTP Group Link dao:</b>\n\n"
+                "🔗 <b>Notun OTP Group Link dao:</b>\n\n"
                 "<i>Example: https://t.me/aR_OTP_rcv</i>",
                 reply_markup=_back_admin_kb(),
                 parse_mode="HTML",
@@ -2517,9 +2517,9 @@ def callback_handler(call):
             bot.answer_callback_query(call.id)
             msg = bot.send_message(
                 call.message.chat.id,
-                "ðŸ†” <b>Notun OTP Group Chat ID dao:</b>\n\n"
+                "🆔 <b>Notun OTP Group Chat ID dao:</b>\n\n"
                 "<i>Example: -1001234567890</i>\n"
-                "âš ï¸ Negative number dite hobe (group ID always negative)",
+                "⚠️ Negative number dite hobe (group ID always negative)",
                 reply_markup=_back_admin_kb(),
                 parse_mode="HTML",
             )
@@ -2530,12 +2530,12 @@ def callback_handler(call):
                 return
             markup = types.InlineKeyboardMarkup(row_width=2)
             markup.add(
-                types.InlineKeyboardButton("âœ… Haa, Remove", callback_data="grp_removeok"),
-                types.InlineKeyboardButton("âŒ Cancel", callback_data="grp_info"),
+                types.InlineKeyboardButton("✅ Haa, Remove", callback_data="grp_removeok"),
+                types.InlineKeyboardButton("❌ Cancel", callback_data="grp_info"),
             )
             bot.answer_callback_query(call.id)
             bot.edit_message_text(
-                "âš ï¸ <b>CONFIRM GROUP REMOVE</b> âš ï¸\n\n"
+                "⚠️ <b>CONFIRM GROUP REMOVE</b> ⚠️\n\n"
                 "OTP Group setting reset hobe!\n"
                 "Group-e aro OTP pathano bondho hobe.\n\n"
                 "Sure?",
@@ -2551,10 +2551,10 @@ def callback_handler(call):
             _group_settings["otp_group_id"] = None
             _group_settings["otp_group_link"] = ""
             save_group_settings()
-            bot.answer_callback_query(call.id, "âœ… Group removed!")
+            bot.answer_callback_query(call.id, "✅ Group removed!")
             _show_settings_inline(call)
 
-        # â”€â”€ Per-admin Settings inline buttons â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+        # ── Per-admin Settings inline buttons ─────────────────────────────────
 
         elif data.startswith("my_setgroup:"):
             admin_uid = int(data.split(":")[1])
@@ -2563,10 +2563,10 @@ def callback_handler(call):
             bot.answer_callback_query(call.id)
             msg = bot.send_message(
                 call.message.chat.id,
-                "ðŸ†” <b>OTP Group Chat ID dao:</b>\n\n"
-                "1ï¸âƒ£ Bot-ke group-e add koro\n"
-                "2ï¸âƒ£ Group-e /getid send koro â€” ID pabe\n"
-                "3ï¸âƒ£ Sei ID ekhane paste koro:\n"
+                "🆔 <b>OTP Group Chat ID dao:</b>\n\n"
+                "1️⃣ Bot-ke group-e add koro\n"
+                "2️⃣ Group-e /getid send koro — ID pabe\n"
+                "3️⃣ Sei ID ekhane paste koro:\n"
                 "<i>Example: -1001234567890</i>",
                 reply_markup=_back_admin_kb(),
                 parse_mode="HTML",
@@ -2579,13 +2579,13 @@ def callback_handler(call):
                 try:
                     gid = int(raw)
                 except ValueError:
-                    msg2 = bot.send_message(m.chat.id, "âŒ Number daw (e.g. -1001234567890):", reply_markup=_back_admin_kb(), parse_mode="HTML")
+                    msg2 = bot.send_message(m.chat.id, "❌ Number daw (e.g. -1001234567890):", reply_markup=_back_admin_kb(), parse_mode="HTML")
                     bot.register_next_step_handler(msg2, _step_setgroup)
                     return
                 cfg = get_admin_config(_uid)
                 cfg["group_id"] = gid
                 save_admin_config(_uid, cfg)
-                _go_admin_panel(m, f"âœ… <b>OTP Group ID set!</b>\n\nðŸ†” <code>{gid}</code>")
+                _go_admin_panel(m, f"✅ <b>OTP Group ID set!</b>\n\n🆔 <code>{gid}</code>")
             bot.register_next_step_handler(msg, _step_setgroup)
 
         elif data.startswith("my_setbrand:"):
@@ -2595,7 +2595,7 @@ def callback_handler(call):
             bot.answer_callback_query(call.id)
             msg = bot.send_message(
                 call.message.chat.id,
-                "ðŸ‘‘ <b>Brand name dao:</b>\n\n<i>Example: RABBI</i>",
+                "👑 <b>Brand name dao:</b>\n\n<i>Example: RABBI</i>",
                 reply_markup=_back_admin_kb(),
                 parse_mode="HTML",
             )
@@ -2605,13 +2605,13 @@ def callback_handler(call):
                     return
                 brand = (m.text or "").strip()
                 if not brand:
-                    msg2 = bot.send_message(m.chat.id, "âŒ Brand name dao:", reply_markup=_back_admin_kb(), parse_mode="HTML")
+                    msg2 = bot.send_message(m.chat.id, "❌ Brand name dao:", reply_markup=_back_admin_kb(), parse_mode="HTML")
                     bot.register_next_step_handler(msg2, _step_setbrand)
                     return
                 cfg = get_admin_config(_uid)
                 cfg["brand"] = brand
                 save_admin_config(_uid, cfg)
-                _go_admin_panel(m, f"âœ… <b>Brand set:</b> <b>{brand}</b>")
+                _go_admin_panel(m, f"✅ <b>Brand set:</b> <b>{brand}</b>")
             bot.register_next_step_handler(msg, _step_setbrand)
 
         elif data.startswith("my_setnumch:"):
@@ -2621,7 +2621,7 @@ def callback_handler(call):
             bot.answer_callback_query(call.id)
             msg = bot.send_message(
                 call.message.chat.id,
-                "ðŸ“² <b>Number Channel link dao:</b>\n\n<i>Example: https://t.me/gsjggj98</i>",
+                "📲 <b>Number Channel link dao:</b>\n\n<i>Example: https://t.me/gsjggj98</i>",
                 reply_markup=_back_admin_kb(),
                 parse_mode="HTML",
             )
@@ -2631,13 +2631,13 @@ def callback_handler(call):
                     return
                 link = (m.text or "").strip()
                 if not link.startswith("https://"):
-                    msg2 = bot.send_message(m.chat.id, "âŒ Valid https:// link dao:", reply_markup=_back_admin_kb(), parse_mode="HTML")
+                    msg2 = bot.send_message(m.chat.id, "❌ Valid https:// link dao:", reply_markup=_back_admin_kb(), parse_mode="HTML")
                     bot.register_next_step_handler(msg2, _step_setnumch)
                     return
                 cfg = get_admin_config(_uid)
                 cfg["numChannel"] = link
                 save_admin_config(_uid, cfg)
-                _go_admin_panel(m, f"âœ… <b>Number Channel set:</b>\n{link}")
+                _go_admin_panel(m, f"✅ <b>Number Channel set:</b>\n{link}")
             bot.register_next_step_handler(msg, _step_setnumch)
 
         elif data.startswith("my_setmainch:"):
@@ -2647,7 +2647,7 @@ def callback_handler(call):
             bot.answer_callback_query(call.id)
             msg = bot.send_message(
                 call.message.chat.id,
-                "ðŸ“¢ <b>Main Channel link dao:</b>\n\n<i>Example: https://t.me/facboo578</i>",
+                "📢 <b>Main Channel link dao:</b>\n\n<i>Example: https://t.me/facboo578</i>",
                 reply_markup=_back_admin_kb(),
                 parse_mode="HTML",
             )
@@ -2657,13 +2657,13 @@ def callback_handler(call):
                     return
                 link = (m.text or "").strip()
                 if not link.startswith("https://"):
-                    msg2 = bot.send_message(m.chat.id, "âŒ Valid https:// link dao:", reply_markup=_back_admin_kb(), parse_mode="HTML")
+                    msg2 = bot.send_message(m.chat.id, "❌ Valid https:// link dao:", reply_markup=_back_admin_kb(), parse_mode="HTML")
                     bot.register_next_step_handler(msg2, _step_setmainch)
                     return
                 cfg = get_admin_config(_uid)
                 cfg["mainChannel"] = link
                 save_admin_config(_uid, cfg)
-                _go_admin_panel(m, f"âœ… <b>Main Channel set:</b>\n{link}")
+                _go_admin_panel(m, f"✅ <b>Main Channel set:</b>\n{link}")
             bot.register_next_step_handler(msg, _step_setmainch)
 
         elif data.startswith("my_setbotlink:"):
@@ -2673,7 +2673,7 @@ def callback_handler(call):
             bot.answer_callback_query(call.id)
             msg = bot.send_message(
                 call.message.chat.id,
-                "ðŸ¤– <b>Bot link dao:</b>\n\n<i>Example: https://t.me/rabbi_otp_bot</i>",
+                "🤖 <b>Bot link dao:</b>\n\n<i>Example: https://t.me/rabbi_otp_bot</i>",
                 reply_markup=_back_admin_kb(),
                 parse_mode="HTML",
             )
@@ -2683,20 +2683,20 @@ def callback_handler(call):
                     return
                 link = (m.text or "").strip()
                 if not link.startswith("https://"):
-                    msg2 = bot.send_message(m.chat.id, "âŒ Valid https:// link dao:", reply_markup=_back_admin_kb(), parse_mode="HTML")
+                    msg2 = bot.send_message(m.chat.id, "❌ Valid https:// link dao:", reply_markup=_back_admin_kb(), parse_mode="HTML")
                     bot.register_next_step_handler(msg2, _step_setbotlink)
                     return
                 cfg = get_admin_config(_uid)
                 cfg["botLink"] = link
                 save_admin_config(_uid, cfg)
-                _go_admin_panel(m, f"âœ… <b>Bot Link set:</b>\n{link}")
+                _go_admin_panel(m, f"✅ <b>Bot Link set:</b>\n{link}")
             bot.register_next_step_handler(msg, _step_setbotlink)
 
     except Exception as e:
         print(f"Callback Error: {e}")
 
 
-# â”€â”€ Excel / CSV helpers â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Excel / CSV helpers ───────────────────────────────────────────────────────
 
 VALID_SERVICES = [
     "facebook",
@@ -2713,8 +2713,8 @@ def _parse_spreadsheet(data: bytes, filename: str):
     Parse Excel (.xlsx / .xls) or CSV file.
     Returns:
       - (rows, mode)
-        mode='two_col' â†’ rows = list of (service, number)
-        mode='one_col' â†’ rows = list of number strings
+        mode='two_col' → rows = list of (service, number)
+        mode='one_col' → rows = list of number strings
     Accepts header rows with 'service'/'number' labels.
     Falls back: 2-column files = service+number, 1-column = numbers only.
     """
@@ -2840,18 +2840,18 @@ def document_handler(message):
     if ext not in ("xlsx", "xls", "csv"):
         bot.send_message(
             message.chat.id,
-            "âŒ <b>Unsupported file!</b>\n\n"
-            "ðŸ“Ž Supported formats:\n"
-            "  â€¢ <b>.xlsx</b> â€” Excel (new)\n"
-            "  â€¢ <b>.xls</b>  â€” Excel (old)\n"
-            "  â€¢ <b>.csv</b>  â€” CSV\n\n"
-            "ðŸ’¡ File pathao abar!",
+            "❌ <b>Unsupported file!</b>\n\n"
+            "📎 Supported formats:\n"
+            "  • <b>.xlsx</b> — Excel (new)\n"
+            "  • <b>.xls</b>  — Excel (old)\n"
+            "  • <b>.csv</b>  — CSV\n\n"
+            "💡 File pathao abar!",
             parse_mode="HTML",
         )
         return
 
     wait = bot.send_message(
-        message.chat.id, f"â³ðŸ”¥ <b>{name}</b> parse korchi...", parse_mode="HTML"
+        message.chat.id, f"⏳🔥 <b>{name}</b> parse korchi...", parse_mode="HTML"
     )
 
     try:
@@ -2859,7 +2859,7 @@ def document_handler(message):
         raw = bot.download_file(file_info.file_path)
     except Exception as e:
         bot.edit_message_text(
-            f"âŒ File download hoyni: {e}",
+            f"❌ File download hoyni: {e}",
             message.chat.id,
             wait.message_id,
             parse_mode="HTML",
@@ -2876,11 +2876,11 @@ def document_handler(message):
     if mode in ("unknown", "empty") or not rows:
         bot.send_message(
             message.chat.id,
-            "âš ï¸ <b>File-e kono data paini!</b> âš ï¸\n\n"
-            "ðŸ“‹ <b>Supported formats:</b>\n"
-            "  â€¢ <b>2-column:</b>  Service | Number\n"
-            "  â€¢ <b>1-column:</b>  Number only (service pore dao)\n\n"
-            "ðŸ’¡ Sample format:\n"
+            "⚠️ <b>File-e kono data paini!</b> ⚠️\n\n"
+            "📋 <b>Supported formats:</b>\n"
+            "  • <b>2-column:</b>  Service | Number\n"
+            "  • <b>1-column:</b>  Number only (service pore dao)\n\n"
+            "💡 Sample format:\n"
             "<code>facebook  | 8801700123456\n"
             "whatsapp  | 8801800234567\n"
             "telegram  | 251912345678</code>",
@@ -2900,23 +2900,23 @@ def document_handler(message):
             added, skipped = _add_numbers_bulk(svc, nums)
             total_added += added
             total_skipped += skipped
-            icon = "âœ…" if added else "âš ï¸"
+            icon = "✅" if added else "⚠️"
             report_lines += f"{icon} <b>{svc.upper()}</b>: +{added} added"
             if skipped:
-                report_lines += f"  (âš ï¸ {skipped} skip)"
+                report_lines += f"  (⚠️ {skipped} skip)"
             report_lines += "\n"
 
         bot.send_message(
             message.chat.id,
-            f"ðŸ“ŠðŸ”¥ <b>EXCEL IMPORT DONE!</b> ðŸ”¥ðŸ“Š\n"
-            f"âš¡â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”âš¡\n\n"
-            f"ðŸ“Ž <b>File:</b> <code>{name}</code>\n"
-            f"ðŸ“‹ <b>Rows parsed:</b> {len(rows)}\n\n"
+            f"📊🔥 <b>EXCEL IMPORT DONE!</b> 🔥📊\n"
+            f"⚡━━━━━━━━━━━━━━━━⚡\n\n"
+            f"📎 <b>File:</b> <code>{name}</code>\n"
+            f"📋 <b>Rows parsed:</b> {len(rows)}\n\n"
             f"{report_lines}\n"
-            f"âœ… <b>Total added:</b> {total_added}\n"
-            f"âš ï¸ <b>Skipped:</b> {total_skipped}\n\n"
-            f"âš¡â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”âš¡\n"
-            f"ðŸ’¡ /panels diye stock check koro.",
+            f"✅ <b>Total added:</b> {total_added}\n"
+            f"⚠️ <b>Skipped:</b> {total_skipped}\n\n"
+            f"⚡━━━━━━━━━━━━━━━━⚡\n"
+            f"💡 /panels diye stock check koro.",
             reply_markup=main_menu(uid),
             parse_mode="HTML",
         )
@@ -2926,17 +2926,17 @@ def document_handler(message):
         _pending_excel[uid] = {"numbers": rows, "filename": name}
         bot.send_message(
             message.chat.id,
-            f"ðŸ“‚ðŸ”¥ <b>FILE LOADED!</b> ðŸ”¥ðŸ“‚\n"
-            f"âš¡â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”âš¡\n\n"
-            f"ðŸ“Ž <b>File:</b> <code>{name}</code>\n"
-            f"ðŸ“± <b>Numbers found:</b> {len(rows)}\n\n"
+            f"📂🔥 <b>FILE LOADED!</b> 🔥📂\n"
+            f"⚡━━━━━━━━━━━━━━━━⚡\n\n"
+            f"📎 <b>File:</b> <code>{name}</code>\n"
+            f"📱 <b>Numbers found:</b> {len(rows)}\n\n"
             f" <b>Kon service-e add korbo?</b>\n"
-            f"â¬‡ï¸ Choose koro:",
+            f"⬇️ Choose koro:",
             reply_markup=_service_select_markup(),
             parse_mode="HTML",
         )
         msg = bot.send_message(
-            message.chat.id, "â¬‡ï¸ Service type koro:", parse_mode="HTML"
+            message.chat.id, "⬇️ Service type koro:", parse_mode="HTML"
         )
         bot.register_next_step_handler(msg, _excel_pick_service)
 
@@ -2972,7 +2972,7 @@ def _excel_pick_service(message):
     if svc is None:
         msg = bot.send_message(
             message.chat.id,
-            "âŒ Valid service choose koro:\n"
+            "❌ Valid service choose koro:\n"
             "<code>Facebook / Instagram / WhatsApp / Telegram / Binance / PC Clone</code>",
             reply_markup=_service_select_markup(),
             parse_mode="HTML",
@@ -2984,7 +2984,7 @@ def _excel_pick_service(message):
     if not pending:
         bot.send_message(
             message.chat.id,
-            "âš ï¸ Session expired. File abar pathao.",
+            "⚠️ Session expired. File abar pathao.",
             reply_markup=main_menu(uid),
         )
         return
@@ -2995,15 +2995,15 @@ def _excel_pick_service(message):
 
     bot.send_message(
         message.chat.id,
-        f"ðŸ“ŠðŸ”¥ <b>EXCEL IMPORT DONE!</b> ðŸ”¥ðŸ“Š\n"
-        f"âš¡â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”âš¡\n\n"
-        f"ðŸ“Ž <b>File:</b>     <code>{filename}</code>\n"
-        f"ðŸ’¬ <b>Service:</b>  <b>{svc.upper()}</b>\n"
-        f"ðŸ“± <b>Parsed:</b>   {len(numbers)}\n\n"
-        f"âœ… <b>Added:</b>    {added}\n"
-        f"âš ï¸ <b>Skipped:</b>  {skipped}\n\n"
-        f"âš¡â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”âš¡\n"
-        f"ðŸ’¡ /panels diye stock check koro.",
+        f"📊🔥 <b>EXCEL IMPORT DONE!</b> 🔥📊\n"
+        f"⚡━━━━━━━━━━━━━━━━⚡\n\n"
+        f"📎 <b>File:</b>     <code>{filename}</code>\n"
+        f"💬 <b>Service:</b>  <b>{svc.upper()}</b>\n"
+        f"📱 <b>Parsed:</b>   {len(numbers)}\n\n"
+        f"✅ <b>Added:</b>    {added}\n"
+        f"⚠️ <b>Skipped:</b>  {skipped}\n\n"
+        f"⚡━━━━━━━━━━━━━━━━⚡\n"
+        f"💡 /panels diye stock check koro.",
         reply_markup=main_menu(uid),
         parse_mode="HTML",
     )
@@ -3016,78 +3016,78 @@ def text_handler(message):
     txt = message.text
     register_user(message.chat.id)
 
-    if txt == "â˜Žï¸ ð—¡ð—¨ð— ð—•ð—”ð—¥ â˜Žï¸":
+    if txt == "☎️ 𝗡𝗨𝗠𝗕𝗔𝗥 ☎️":
         show_services(message)
 
     elif txt in _get_svc_map():
         svc = _get_svc_map()[txt]
         show_countries(message.chat.id, svc)
 
-    elif txt == "ðŸ”™ Main Menu":
+    elif txt == "🔙 Main Menu":
         mname = message.from_user.first_name or message.from_user.username or "User"
         bot.send_message(
             message.chat.id,
-            f"â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—\n"
+            f"╔═════════════════════╗\n"
             f"      USER MENU-te WELCOME!\n"
-            f"   ðŸ‘‹ <b>{mname}</b>, ki korte chao?\n"
-            f"â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•",
+            f"   👋 <b>{mname}</b>, ki korte chao?\n"
+            f"╚═════════════════════╝",
             reply_markup=main_menu(uid),
             parse_mode="HTML",
         )
 
-    elif txt == "ðŸ“ž ð—¦ð—”ð—£ð—¢ð—¥ð—§":
+    elif txt == "📞 𝗦𝗔𝗣𝗢𝗥𝗧":
         markup = types.InlineKeyboardMarkup()
         markup.add(
-            types.InlineKeyboardButton("ðŸ‘‘ RABBI â€” Support", url="https://t.me/Rabbi122q")
+            types.InlineKeyboardButton("👑 RABBI — Support", url="https://t.me/Rabbi122q")
         )
         bot.send_message(
             message.chat.id,
-            "ðŸ“ž <b>SUPPORT</b> ðŸ“ž\n"
-            "âš¡â”â”â”â”â”â”â”â”â”â”â”â”â”â”âš¡\n\n"
-            "ðŸ‘‘ <b>RABBI</b>\n"
-            "ðŸ“© à¦¯à§‡à¦•à§‹à¦¨à§‹ à¦¸à¦®à¦¸à§à¦¯à¦¾à¦¯à¦¼ à¦¨à¦¿à¦šà§‡à¦° à¦¬à¦¾à¦Ÿà¦¨à§‡ à¦•à§à¦²à¦¿à¦• à¦•à¦°à§‹!\n\n"
-            "âš¡â”â”â”â”â”â”â”â”â”â”â”â”â”â”âš¡",
+            "📞 <b>SUPPORT</b> 📞\n"
+            "⚡━━━━━━━━━━━━━━⚡\n\n"
+            "👑 <b>RABBI</b>\n"
+            "📩 যেকোনো সমস্যায় নিচের বাটনে ক্লিক করো!\n\n"
+            "⚡━━━━━━━━━━━━━━⚡",
             reply_markup=markup,
             parse_mode="HTML",
         )
 
-    elif txt == "ðŸ“Š ð—¦ð—§ð—¢ð—–ð—ž":
-        report = "ðŸ”¥ <b>LIVE STOCK REPORT</b> ðŸ”¥\nâš¡â”â”â”â”â”â”â”â”â”â”â”â”âš¡\n\n"
+    elif txt == "📊 𝗦𝗧𝗢𝗖𝗞":
+        report = "🔥 <b>LIVE STOCK REPORT</b> 🔥\n⚡━━━━━━━━━━━━⚡\n\n"
         for s, d in stock.items():
             total = sum(len(v) for v in d.values())
-            report += f" <b>{s.upper()}</b>: {total} à¦Ÿà¦¿ \n"
-        report += "\nâš¡â”â”â”â”â”â”â”â”â”â”â”â”âš¡\nðŸ¤– <b>RABBI OTP BOT</b> ðŸ”¥"
+            report += f" <b>{s.upper()}</b>: {total} টি \n"
+        report += "\n⚡━━━━━━━━━━━━⚡\n🤖 <b>RABBI OTP BOT</b> 🔥"
         bot.send_message(message.chat.id, report, parse_mode="HTML")
 
-    elif txt == "âš™ï¸ ð—”ð——ð— ð—œð—¡ ð—£ð—”ð—¡ð—˜ð—Ÿ âš™ï¸" and uid in ADMIN_IDS:
+    elif txt == "⚙️ 𝗔𝗗𝗠𝗜𝗡 𝗣𝗔𝗡𝗘𝗟 ⚙️" and uid in ADMIN_IDS:
         _go_admin_panel(message)
 
-    elif txt == "ðŸ”¥ðŸ“¢ ð—•ð—¿ð—¼ð—®ð—±ð—°ð—®ð˜€ð˜" and uid in ADMIN_IDS:
+    elif txt == "🔥📢 𝗕𝗿𝗼𝗮𝗱𝗰𝗮𝘀𝘁" and uid in ADMIN_IDS:
         msg = bot.send_message(
             message.chat.id,
-            "âœï¸ <b>Broadcast content à¦ªà¦¾à¦ à¦¾à¦“:</b> \n\n"
-            "ðŸ“ Text, ðŸ–¼ï¸ Photo, ðŸŽ¥ Video, or ðŸŽ­ Sticker (with optional caption) â€” à¦¸à¦¬ accept à¦¹à¦¬à§‡!\n\n"
-            "ðŸ”™ Back jete <b>Admin Panel</b> button press koro.",
+            "✍️ <b>Broadcast content পাঠাও:</b> \n\n"
+            "📝 Text, 🖼️ Photo, 🎥 Video, or 🎭 Sticker (with optional caption) — সব accept হবে!\n\n"
+            "🔙 Back jete <b>Admin Panel</b> button press koro.",
             reply_markup=_back_admin_kb(),
             parse_mode="HTML",
         )
         bot.register_next_step_handler(msg, do_broadcast)
 
-    elif txt == "âš¡ðŸ‘¥ ð—¨ð˜€ð—²ð—¿ ð—–ð—¼ð˜‚ð—»ð˜" and uid in ADMIN_IDS:
+    elif txt == "⚡👥 𝗨𝘀𝗲𝗿 𝗖𝗼𝘂𝗻𝘁" and uid in ADMIN_IDS:
         bot.send_message(
             message.chat.id,
-            f" <b>TOTAL USERS</b> \n\nâš¡ <b>{len(users)}</b> à¦œà¦¨ à¦†à¦›à§‡! ðŸ”¥",
+            f" <b>TOTAL USERS</b> \n\n⚡ <b>{len(users)}</b> জন আছে! 🔥",
             parse_mode="HTML",
         )
 
-    elif txt == "ðŸ“‹ðŸ‘¥ ð—¨ð˜€ð—²ð—¿ ð—Ÿð—¶ð˜€ð˜" and uid in ADMIN_IDS:
+    elif txt == "📋👥 𝗨𝘀𝗲𝗿 𝗟𝗶𝘀𝘁" and uid in ADMIN_IDS:
         all_ids = list(users)
         total = len(all_ids)
         if total == 0:
-            bot.send_message(message.chat.id, "ðŸ“‹ No users yet.", parse_mode="HTML")
+            bot.send_message(message.chat.id, "📋 No users yet.", parse_mode="HTML")
         else:
             bot.send_message(
-                message.chat.id, "â³ Loading user names...", parse_mode="HTML"
+                message.chat.id, "⏳ Loading user names...", parse_mode="HTML"
             )
             updated = False
             for user_id in all_ids:
@@ -3119,40 +3119,40 @@ def text_handler(message):
             chunks = [all_ids[i : i + PAGE] for i in range(0, total, PAGE)]
             for idx, chunk in enumerate(chunks):
                 lines = (
-                    f"ðŸ“‹ðŸ‘¥ <b>USER LIST</b> ðŸ‘¥ðŸ“‹\n"
-                    f"âš¡â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”âš¡\n"
-                    f"ðŸ“Š Total: <b>{total}</b> users"
+                    f"📋👥 <b>USER LIST</b> 👥📋\n"
+                    f"⚡━━━━━━━━━━━━━━━━⚡\n"
+                    f"📊 Total: <b>{total}</b> users"
                     + (f"  |  Page {idx + 1}/{len(chunks)}" if len(chunks) > 1 else "")
-                    + "\nâš¡â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”âš¡\n\n"
+                    + "\n⚡━━━━━━━━━━━━━━━━⚡\n\n"
                 )
                 for i, user_id in enumerate(chunk, start=idx * PAGE + 1):
-                    name = user_names.get(str(user_id), "â€”")
-                    lines += f"{i}. ðŸ†” <code>{user_id}</code>\n    ðŸ‘¤ {name}\n\n"
+                    name = user_names.get(str(user_id), "—")
+                    lines += f"{i}. 🆔 <code>{user_id}</code>\n    👤 {name}\n\n"
                 bot.send_message(message.chat.id, lines, parse_mode="HTML")
 
-    elif txt == "âž• ð—¡ð˜‚ð—ºð—¯ð—®ð—¿ ð—”ð—±ð—±" and uid in ADMIN_IDS:
+    elif txt == "➕ 𝗡𝘂𝗺𝗯𝗮𝗿 𝗔𝗱𝗱" and uid in ADMIN_IDS:
         m = types.ReplyKeyboardMarkup(resize_keyboard=True)
         m.add("facebook", "instagram", "whatsapp", "telegram", "binance", "pc clone")
-        m.add("âŒ Cancel")
+        m.add("❌ Cancel")
         msg = bot.send_message(
             message.chat.id,
-            "ðŸ”¥ <b>Service choose koro:</b> ðŸ”¥",
+            "🔥 <b>Service choose koro:</b> 🔥",
             reply_markup=m,
             parse_mode="HTML",
         )
         bot.register_next_step_handler(msg, process_auto_add)
 
-    elif txt == "ðŸ—‘ï¸ ð—¦ð—¼ð—¯ ð—–ð—¹ð—²ð—®ð—¿" and uid in ADMIN_IDS:
+    elif txt == "🗑️ 𝗦𝗼𝗯 𝗖𝗹𝗲𝗮𝗿" and uid in ADMIN_IDS:
         bot.send_message(
             message.chat.id,
-            "ðŸ—‘ï¸ðŸ”¥ <b>STOCK CLEAR PANEL</b> ðŸ”¥ðŸ—‘ï¸\n\n"
+            "🗑️🔥 <b>STOCK CLEAR PANEL</b> 🔥🗑️\n\n"
             " <b>Kon service-er stock clear korbe?</b>\n"
-            "â¬‡ï¸ Service choose koro:",
+            "⬇️ Service choose koro:",
             reply_markup=_clr_service_markup(),
             parse_mode="HTML",
         )
 
-    elif txt == "ðŸŽ­ ð——ð—˜ð— ð—¢ ð—¢ð—§ð—£" and uid in ADMIN_IDS:
+    elif txt == "🎭 𝗗𝗘𝗠𝗢 𝗢𝗧𝗣" and uid in ADMIN_IDS:
         bot.send_message(
             message.chat.id,
             demo_status_text(),
@@ -3160,55 +3160,55 @@ def text_handler(message):
             parse_mode="HTML",
         )
 
-    elif txt == "âž• ð—”ð—±ð—± ð—£ð—®ð—»ð—²ð—¹" and uid in ADMIN_IDS:
+    elif txt == "➕ 𝗔𝗱𝗱 𝗣𝗮𝗻𝗲𝗹" and uid in ADMIN_IDS:
         _addpanel_state[uid] = {"step": "url", "data": {}}
         msg = bot.send_message(
             message.chat.id,
-            "ðŸ”§ðŸ”¥ <b>ADD NEW PANEL</b> ðŸ”¥ðŸ”§\n\n"
-            "ðŸ“¡ <b>Step 1/3:</b> Panel URL pathao\n\n"
+            "🔧🔥 <b>ADD NEW PANEL</b> 🔥🔧\n\n"
+            "📡 <b>Step 1/3:</b> Panel URL pathao\n\n"
             "Supported formats:\n"
-            "â€¢ <code>http://1.2.3.4/ints/agent/SMSCDRStats</code>\n"
-            "â€¢ <code>https://truesms.net/agent/SMSCDRStats</code>\n"
-            "â€¢ <code>https://truesms.net/agent/SMSRanges</code>",
+            "• <code>http://1.2.3.4/ints/agent/SMSCDRStats</code>\n"
+            "• <code>https://truesms.net/agent/SMSCDRStats</code>\n"
+            "• <code>https://truesms.net/agent/SMSRanges</code>",
             reply_markup=_back_admin_kb(),
             parse_mode="HTML",
         )
         bot.register_next_step_handler(msg, _ap_get_url)
 
-    elif txt == "âž• ð—”ð—±ð—± ð—¦ð—²ð—¿ð˜ƒð—¶ð—°ð—²" and uid in ADMIN_IDS:
+    elif txt == "➕ 𝗔𝗱𝗱 𝗦𝗲𝗿𝘃𝗶𝗰𝗲" and uid in ADMIN_IDS:
         _addservice_state[uid] = {}
         msg = bot.send_message(
             message.chat.id,
-            "ðŸ“‹ðŸ”¥ <b>ADD NEW SERVICE</b> ðŸ”¥ðŸ“‹\n\n"
-            "ðŸ·ï¸ <b>Step 1/2:</b> Button-e ki lekha thakbe?\n"
-            "<i>Example: Telegram ðŸ”µ, Binance ðŸ’›, TikTok ðŸŽµ</i>",
+            "📋🔥 <b>ADD NEW SERVICE</b> 🔥📋\n\n"
+            "🏷️ <b>Step 1/2:</b> Button-e ki lekha thakbe?\n"
+            "<i>Example: Telegram 🔵, Binance 💛, TikTok 🎵</i>",
             reply_markup=_back_admin_kb(),
             parse_mode="HTML",
         )
         bot.register_next_step_handler(msg, _svc_get_label)
 
-    elif txt == "ðŸ—‘ï¸ ð—¥ð—²ð—ºð—¼ð˜ƒð—² ð—¦ð—²ð—¿ð˜ƒð—¶ð—°ð—²" and uid in ADMIN_IDS:
+    elif txt == "🗑️ 𝗥𝗲𝗺𝗼𝘃𝗲 𝗦𝗲𝗿𝘃𝗶𝗰𝗲" and uid in ADMIN_IDS:
         if not _services:
-            bot.send_message(message.chat.id, "ðŸ“‹ Kono service nai!", parse_mode="HTML")
+            bot.send_message(message.chat.id, "📋 Kono service nai!", parse_mode="HTML")
         else:
             markup = types.InlineKeyboardMarkup(row_width=1)
             for s in _services:
                 markup.add(types.InlineKeyboardButton(
-                    f"ðŸ—‘ï¸ {s['label']}  [{s['key']}]",
+                    f"🗑️ {s['label']}  [{s['key']}]",
                     callback_data=f"rmsvc:{s['key']}",
                 ))
             bot.send_message(
                 message.chat.id,
-                "ðŸ—‘ï¸ðŸ”¥ <b>REMOVE SERVICE</b>\n\nKon service remove korbe?",
+                "🗑️🔥 <b>REMOVE SERVICE</b>\n\nKon service remove korbe?",
                 reply_markup=markup,
                 parse_mode="HTML",
             )
 
-    elif txt == "ðŸ—‘ï¸ ð—¥ð—²ð—ºð—¼ð˜ƒð—² ð—£ð—®ð—»ð—²ð—¹" and uid in ADMIN_IDS:
+    elif txt == "🗑️ 𝗥𝗲𝗺𝗼𝘃𝗲 𝗣𝗮𝗻𝗲𝗹" and uid in ADMIN_IDS:
         if not _dynamic_panels:
             bot.send_message(
                 message.chat.id,
-                "ðŸ“‹ <b>Kono dynamic panel nai!</b>\nðŸ’¡ Add Panel button diye add koro.",
+                "📋 <b>Kono dynamic panel nai!</b>\n💡 Add Panel button diye add koro.",
                 parse_mode="HTML",
             )
         else:
@@ -3217,92 +3217,92 @@ def text_handler(message):
                 pid = p["id"]
                 with _stats_lock:
                     s = _panel_stats.get(pid, {})
-                st = s.get("status", "â³")
+                st = s.get("status", "⏳")
                 markup.add(
                     types.InlineKeyboardButton(
-                        f"{st} {p.get('username','?')} â€” {p.get('host','?')}",
+                        f"{st} {p.get('username','?')} — {p.get('host','?')}",
                         callback_data=f"rmpanel:{pid}",
                     )
                 )
             bot.send_message(
                 message.chat.id,
-                "ðŸ—‘ï¸ðŸ”¥ <b>REMOVE PANEL</b>\n\nKon panel remove korbe?",
+                "🗑️🔥 <b>REMOVE PANEL</b>\n\nKon panel remove korbe?",
                 reply_markup=markup,
                 parse_mode="HTML",
             )
 
-    elif txt == "â–¶ï¸ ð——ð—˜ð— ð—¢ ð—¦ð—§ð—”ð—¥ð—§" and uid in ADMIN_IDS:
+    elif txt == "▶️ 𝗗𝗘𝗠𝗢 𝗦𝗧𝗔𝗥𝗧" and uid in ADMIN_IDS:
         global _demo_active
         with _demo_lock:
             _demo_active = True
         bot.send_message(
             message.chat.id,
-            "ðŸŸ¢ðŸ”¥ <b>DEMO OTP STARTED!</b> ðŸ”¥ðŸŸ¢\nâš¡ Group-e fake OTP pathano shuru hoyeche!",
+            "🟢🔥 <b>DEMO OTP STARTED!</b> 🔥🟢\n⚡ Group-e fake OTP pathano shuru hoyeche!",
             reply_markup=demo_menu_markup(),
             parse_mode="HTML",
         )
 
-    elif txt == "â¹ï¸ ð——ð—˜ð— ð—¢ ð—¦ð—§ð—¢ð—£" and uid in ADMIN_IDS:
+    elif txt == "⏹️ 𝗗𝗘𝗠𝗢 𝗦𝗧𝗢𝗣" and uid in ADMIN_IDS:
         with _demo_lock:
             _demo_active = False
         bot.send_message(
             message.chat.id,
-            "ðŸ”´ <b>DEMO OTP STOPPED!</b> ðŸ”´\nâš¡ Fake OTP pathano bondho hoyeche.",
+            "🔴 <b>DEMO OTP STOPPED!</b> 🔴\n⚡ Fake OTP pathano bondho hoyeche.",
             reply_markup=demo_menu_markup(),
             parse_mode="HTML",
         )
 
-    elif txt == "âš™ï¸ ð——ð—˜ð— ð—¢ ð—–ð—¢ð—¡ð—™ð—œð—š" and uid in ADMIN_IDS:
+    elif txt == "⚙️ 𝗗𝗘𝗠𝗢 𝗖𝗢𝗡𝗙𝗜𝗚" and uid in ADMIN_IDS:
         msg = bot.send_message(
             message.chat.id,
-            "ðŸ“± <b>Phone number(s) dao:</b>\n\n"
-            "â€¢ Ekta number: <code>8801700123456</code>\n"
-            "â€¢ Multiple (newline or comma):\n"
+            "📱 <b>Phone number(s) dao:</b>\n\n"
+            "• Ekta number: <code>8801700123456</code>\n"
+            "• Multiple (newline or comma):\n"
             "<code>8801700123456\n251912345678\n2348012345678</code>\n\n"
-            "âš ï¸ Full country code including number lagbe!",
+            "⚠️ Full country code including number lagbe!",
             reply_markup=_back_admin_kb(),
             parse_mode="HTML",
         )
         bot.register_next_step_handler(msg, _demo_cfg_number)
 
-    elif txt == "ðŸ“Š ð—£ð—®ð—»ð—²ð—¹ð˜€" and uid in ADMIN_IDS:
+    elif txt == "📊 𝗣𝗮𝗻𝗲𝗹𝘀" and uid in ADMIN_IDS:
         panels_cmd(message)
 
-    elif txt == "ðŸ‘‘ ð—”ð—±ð—± ð—”ð—±ð—ºð—¶ð—»" and uid in ADMIN_IDS:
+    elif txt == "👑 𝗔𝗱𝗱 𝗔𝗱𝗺𝗶𝗻" and uid in ADMIN_IDS:
         msg = bot.send_message(
             message.chat.id,
-            "ðŸ‘‘ <b>New Admin add</b>\n\n"
+            "👑 <b>New Admin add</b>\n\n"
             "Notun admin-er Telegram <b>User ID</b> dao:\n"
             "<i>Example: 123456789</i>\n\n"
-            "ðŸ’¡ User ID jante hole sei user-ke @userinfobot-e forward koro.",
+            "💡 User ID jante hole sei user-ke @userinfobot-e forward koro.",
             reply_markup=_back_admin_kb(),
             parse_mode="HTML",
         )
         bot.register_next_step_handler(msg, _admin_add_get_id)
 
-    elif txt == "ðŸ—‘ï¸ ð—¥ð—²ð—ºð—¼ð˜ƒð—² ð—”ð—±ð—ºð—¶ð—»" and uid in ADMIN_IDS:
+    elif txt == "🗑️ 𝗥𝗲𝗺𝗼𝘃𝗲 𝗔𝗱𝗺𝗶𝗻" and uid in ADMIN_IDS:
         _show_remove_admin(message)
 
-    elif txt == "âš™ï¸ ð—¦ð—²ð˜ð˜ð—¶ð—»ð—´ð˜€" and uid in ADMIN_IDS:
+    elif txt == "⚙️ 𝗦𝗲𝘁𝘁𝗶𝗻𝗴𝘀" and uid in ADMIN_IDS:
         _show_settings(message)
 
-    elif txt in ("ðŸ”™ ð—”ð——ð— ð—œð—¡ ð—£ð—”ð—¡ð—˜ð—Ÿ", "ðŸ”™ Admin Panel") and uid in ADMIN_IDS:
+    elif txt in ("🔙 𝗔𝗗𝗠𝗜𝗡 𝗣𝗔𝗡𝗘𝗟", "🔙 Admin Panel") and uid in ADMIN_IDS:
         _go_admin_panel(message)
 
-    elif txt == "â¬…ï¸ðŸ”™ ð—¨ð˜€ð—²ð—¿ ð— ð—²ð—»ð˜‚":
+    elif txt == "⬅️🔙 𝗨𝘀𝗲𝗿 𝗠𝗲𝗻𝘂":
         mname = message.from_user.first_name or message.from_user.username or "User"
         bot.send_message(
             message.chat.id,
-            f"â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—\n"
+            f"╔═════════════════════╗\n"
             f"      USER MENU-te WELCOME!\n"
-            f"   ðŸ‘‹ <b>{mname}</b>, ki korte chao?\n"
-            f"â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•",
+            f"   👋 <b>{mname}</b>, ki korte chao?\n"
+            f"╚═════════════════════╝",
             reply_markup=main_menu(uid),
             parse_mode="HTML",
         )
 
 
-# â”€â”€ Demo OTP config step handlers â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Demo OTP config step handlers ─────────────────────────────────────────────
 
 
 def _demo_cfg_number(message):
@@ -3314,7 +3314,7 @@ def _demo_cfg_number(message):
     if not candidates:
         msg = bot.send_message(
             message.chat.id,
-            "âŒ Kono number paini. Ekta ba multiple number dao:",
+            "❌ Kono number paini. Ekta ba multiple number dao:",
             reply_markup=_back_admin_kb(),
             parse_mode="HTML",
         )
@@ -3331,15 +3331,15 @@ def _demo_cfg_number(message):
             invalid.append(num)
         else:
             valid.append(num)
-            result_lines += f"  âœ… <code>{num}</code>  {flag} {c_name}\n"
+            result_lines += f"  ✅ <code>{num}</code>  {flag} {c_name}\n"
     if not valid:
         msg = bot.send_message(
             message.chat.id,
-            f"âš ï¸ <b>Kono valid number paini!</b>\n\n"
+            f"⚠️ <b>Kono valid number paini!</b>\n\n"
             f"Full international number dao (country code including):\n"
-            f"ðŸ‡§ðŸ‡© Bangladesh â†’ <code>8801700123456</code>\n"
-            f"ðŸ‡ªðŸ‡¹ Ethiopia   â†’ <code>251912345678</code>\n"
-            f"ðŸ‡³ðŸ‡¬ Nigeria    â†’ <code>2348012345678</code>\n\n"
+            f"🇧🇩 Bangladesh → <code>8801700123456</code>\n"
+            f"🇪🇹 Ethiopia   → <code>251912345678</code>\n"
+            f"🇳🇬 Nigeria    → <code>2348012345678</code>\n\n"
             f"Aro ekbar try koro:",
             parse_mode="HTML",
         )
@@ -3352,21 +3352,21 @@ def _demo_cfg_number(message):
     preview = "\n".join(shown)
     if len(valid) > SHOW_MAX:
         preview += f"\n  ... +{len(valid) - SHOW_MAX} more"
-    feedback = f"âœ… <b>{len(valid)} à¦Ÿà¦¿ number set hoiche:</b>\n{preview}\n"
+    feedback = f"✅ <b>{len(valid)} টি number set hoiche:</b>\n{preview}\n"
     if invalid:
         inv_preview = invalid[:5]
         feedback += (
-            f"\nâš ï¸ Skip (invalid): {', '.join(f'<code>{x}</code>' for x in inv_preview)}"
+            f"\n⚠️ Skip (invalid): {', '.join(f'<code>{x}</code>' for x in inv_preview)}"
         )
         if len(invalid) > 5:
             feedback += f" +{len(invalid) - 5} more"
         feedback += "\n"
     svc_markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
     svc_markup.add("4", "5", "6", "7", "8")
-    svc_markup.add("ðŸ”™ Admin Panel")
+    svc_markup.add("🔙 Admin Panel")
     msg = bot.send_message(
         message.chat.id,
-        feedback + "\nðŸ”¢ <b>OTP digit count choose koro:</b>",
+        feedback + "\n🔢 <b>OTP digit count choose koro:</b>",
         reply_markup=svc_markup,
         parse_mode="HTML",
     )
@@ -3384,18 +3384,18 @@ def _demo_cfg_digits(message):
     except ValueError:
         svc_markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
         svc_markup.add("4", "5", "6", "7", "8")
-        svc_markup.add("ðŸ”™ Admin Panel")
-        msg = bot.send_message(message.chat.id, "âŒ 4 theke 8 er modhye number dao:", reply_markup=svc_markup)
+        svc_markup.add("🔙 Admin Panel")
+        msg = bot.send_message(message.chat.id, "❌ 4 theke 8 er modhye number dao:", reply_markup=svc_markup)
         bot.register_next_step_handler(msg, _demo_cfg_digits)
         return
     with _demo_lock:
         _demo_config["digits"] = d
     svc_markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
     svc_markup.add("Facebook", "Instagram", "WhatsApp", "Telegram", "PC Clone")
-    svc_markup.add("ðŸ”™ Admin Panel")
+    svc_markup.add("🔙 Admin Panel")
     msg = bot.send_message(
         message.chat.id,
-        f"âœ… Digits set: <b>{d}</b>\n\nðŸ’¬ <b>Service choose koro:</b>",
+        f"✅ Digits set: <b>{d}</b>\n\n💬 <b>Service choose koro:</b>",
         reply_markup=svc_markup,
         parse_mode="HTML",
     )
@@ -3410,18 +3410,18 @@ def _demo_cfg_service(message):
     if not svc:
         svc_markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
         svc_markup.add("Facebook", "Instagram", "WhatsApp", "Telegram", "PC Clone")
-        svc_markup.add("ðŸ”™ Admin Panel")
-        msg = bot.send_message(message.chat.id, "âŒ Service name dao:", reply_markup=svc_markup)
+        svc_markup.add("🔙 Admin Panel")
+        msg = bot.send_message(message.chat.id, "❌ Service name dao:", reply_markup=svc_markup)
         bot.register_next_step_handler(msg, _demo_cfg_service)
         return
     with _demo_lock:
         _demo_config["service"] = svc
     intvl_markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
     intvl_markup.add("15", "30", "60", "120", "300")
-    intvl_markup.add("ðŸ”™ Admin Panel")
+    intvl_markup.add("🔙 Admin Panel")
     msg = bot.send_message(
         message.chat.id,
-        f"âœ… Service set: <b>{svc}</b>\n\nâ±ï¸ <b>Interval (seconds) dao:</b>",
+        f"✅ Service set: <b>{svc}</b>\n\n⏱️ <b>Interval (seconds) dao:</b>",
         reply_markup=intvl_markup,
         parse_mode="HTML",
     )
@@ -3439,15 +3439,15 @@ def _demo_cfg_interval(message):
     except ValueError:
         intvl_markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
         intvl_markup.add("15", "30", "60", "120", "300")
-        intvl_markup.add("ðŸ”™ Admin Panel")
-        msg = bot.send_message(message.chat.id, "âŒ Minimum 5 second. Aro dao:", reply_markup=intvl_markup)
+        intvl_markup.add("🔙 Admin Panel")
+        msg = bot.send_message(message.chat.id, "❌ Minimum 5 second. Aro dao:", reply_markup=intvl_markup)
         bot.register_next_step_handler(msg, _demo_cfg_interval)
         return
     with _demo_lock:
         _demo_config["interval"] = iv
     bot.send_message(
         message.chat.id,
-        f"âœ… Interval set: <b>{iv}s</b>\n\n" + demo_status_text(),
+        f"✅ Interval set: <b>{iv}s</b>\n\n" + demo_status_text(),
         reply_markup=demo_menu_markup(),
         parse_mode="HTML",
     )
@@ -3455,11 +3455,11 @@ def _demo_cfg_interval(message):
 
 def make_broadcast_msg(text):
     return (
-        "ðŸ”¥ <b>ð—”ð—¥ ð—¢ð—§ð—£ ð—•ð—¢ð—§ â€” ð—•ð—¥ð—¢ð—”ð——ð—–ð—”ð—¦ð—§!</b> ðŸ”¥\n"
-        "âš¡â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”âš¡\n\n"
-        f"ðŸ“¢ {text} ðŸ“¢\n\n"
-        "âš¡â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”âš¡\n"
-        "ðŸ¤–ðŸ”¥ <i>ð™‹ð™¤ð™¬ð™šð™§ð™šð™™ ð™—ð™®</i>  <b>ð—”ð—¥ ð—¢ð—§ð—£ ð—•ð—¢ð—§</b>  ðŸ”¥ðŸ¤–"
+        "🔥 <b>𝗔𝗥 𝗢𝗧𝗣 𝗕𝗢𝗧 — 𝗕𝗥𝗢𝗔𝗗𝗖𝗔𝗦𝗧!</b> 🔥\n"
+        "⚡━━━━━━━━━━━━━━━━⚡\n\n"
+        f"📢 {text} 📢\n\n"
+        "⚡━━━━━━━━━━━━━━━━⚡\n"
+        "🤖🔥 <i>𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝙗𝙮</i>  <b>𝗔𝗥 𝗢𝗧𝗣 𝗕𝗢𝗧</b>  🔥🤖"
     )
 
 
@@ -3492,7 +3492,7 @@ def do_broadcast(message):
     ):
         bot.send_message(
             message.chat.id,
-            "âš ï¸ <b>Kono content paoa jaini!</b> âš ï¸\n"
+            "⚠️ <b>Kono content paoa jaini!</b> ⚠️\n"
             "Text, Photo, Video, GIF, Audio, Voice, Document ba Sticker pathao.",
             parse_mode="HTML",
         )
@@ -3504,7 +3504,7 @@ def do_broadcast(message):
 
     bot.send_message(
         message.chat.id,
-        f"â³ðŸ”¥ <b>{len(users)} à¦œà¦¨à¦•à§‡ à¦ªà¦¾à¦ à¦¾à¦¨à§‹ à¦¹à¦šà§à¦›à§‡...</b> ðŸ”¥â³",
+        f"⏳🔥 <b>{len(users)} জনকে পাঠানো হচ্ছে...</b> 🔥⏳",
         parse_mode="HTML",
     )
 
@@ -3559,8 +3559,8 @@ def do_broadcast(message):
     bot.send_message(
         message.chat.id,
         f" <b>BROADCAST COMPLETE!</b> \n\n"
-        f"âœ… <b>ð—¦ð—¼ð—³ð—¼ð—¹:</b> {success} à¦œà¦¨ ðŸ”¥\n"
-        f"âŒ <b>ð—•ð—®ð—¿ð˜ð—µð—¼:</b> {fail} à¦œà¦¨ ",
+        f"✅ <b>𝗦𝗼𝗳𝗼𝗹:</b> {success} জন 🔥\n"
+        f"❌ <b>𝗕𝗮𝗿𝘁𝗵𝗼:</b> {fail} জন ",
         reply_markup=main_menu(message.from_user.id),
         parse_mode="HTML",
     )
@@ -3581,19 +3581,19 @@ def _start_countdown(chat_id, msg_id, svc, flag, c_name, display_num, scnt):
             mins = total // 60
             secs = total % 60
             text = (
-                f"âœ… <b>Number Assigned Successfully !</b>\n\n"
-                f"ðŸ”§ <b>Platform :</b> {svc.capitalize()}\n"
-                f"ðŸŒ <b>Country :</b> {flag} {c_name}\n\n"
-                f"ðŸ“ž <b>Number :</b> <code>{display_num}</code>\n\n"
-                f"â± <b>Auto code fetch :</b> {mins:02d}:{secs:02d}s"
+                f"✅ <b>Number Assigned Successfully !</b>\n\n"
+                f"🔧 <b>Platform :</b> {svc.capitalize()}\n"
+                f"🌍 <b>Country :</b> {flag} {c_name}\n\n"
+                f"📞 <b>Number :</b> <code>{display_num}</code>\n\n"
+                f"⏱ <b>Auto code fetch :</b> {mins:02d}:{secs:02d}s"
             )
             kb = types.InlineKeyboardMarkup(row_width=2)
             kb.add(
-                types.InlineKeyboardButton("ðŸ”„ New Number", callback_data=f"n:{svc}:{scnt}"),
-                types.InlineKeyboardButton("ðŸŒ Change Country", callback_data=f"s:{svc}"),
+                types.InlineKeyboardButton("🔄 New Number", callback_data=f"n:{svc}:{scnt}"),
+                types.InlineKeyboardButton("🌍 Change Country", callback_data=f"s:{svc}"),
             )
             kb.add(
-                types.InlineKeyboardButton("ðŸ“¢ OTP Group", url=get_otp_group_link()),
+                types.InlineKeyboardButton("📢 OTP Group", url=get_otp_group_link()),
             )
             try:
                 bot.edit_message_text(
@@ -3625,27 +3625,27 @@ def _settings_text(uid=None):
     auto_del = _group_settings.get("auto_delete", True)
     del_secs = _group_settings.get("auto_delete_seconds", 3600)
 
-    id_str   = f"<code>{grp_id}</code>" if grp_id else "âŒ à¦¸à§‡à¦Ÿ à¦¨à§‡à¦‡"
-    link_str = grp_link or "âŒ à¦¸à§‡à¦Ÿ à¦¨à§‡à¦‡"
+    id_str   = f"<code>{grp_id}</code>" if grp_id else "❌ সেট নেই"
+    link_str = grp_link or "❌ সেট নেই"
     brand_str = brand
-    num_str  = num_ch or "âŒ à¦¸à§‡à¦Ÿ à¦¨à§‡à¦‡"
-    main_str = main_ch or "âŒ à¦¸à§‡à¦Ÿ à¦¨à§‡à¦‡"
-    bot_str  = bot_lnk or "âŒ à¦¸à§‡à¦Ÿ à¦¨à§‡à¦‡"
-    auto_str = f"ðŸŸ¢ ON ({del_secs // 60} min)" if auto_del else "ðŸ”´ OFF"
+    num_str  = num_ch or "❌ সেট নেই"
+    main_str = main_ch or "❌ সেট নেই"
+    bot_str  = bot_lnk or "❌ সেট নেই"
+    auto_str = f"🟢 ON ({del_secs // 60} min)" if auto_del else "🔴 OFF"
     return (
-        f"âš™ï¸ <b>à¦†à¦ªà¦¨à¦¾à¦° SETTINGS</b> (Admin {uid})\n"
-        "âš¡â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”âš¡\n\n"
-        "ðŸ“¡ <b>OTP GROUP</b>\n"
-        f"  ðŸ”— Link: {link_str}\n"
-        f"  ðŸ†” Chat ID: {id_str}\n"
-        f"  â±ï¸ Auto Delete: {auto_str}\n\n"
-        "ðŸŽ¨ <b>BRAND & CHANNELS</b>\n"
-        f"  ðŸ‘‘ Brand: <b>{brand_str}</b>\n"
-        f"  ðŸ“² Number Ch: {num_str}\n"
-        f"  ðŸ“¢ Main Ch: {main_str}\n"
-        f"  ðŸ¤– Bot Link: {bot_str}\n\n"
-        "âš¡â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”âš¡\n"
-        "â¬‡ï¸ à¦•à§€ change à¦•à¦°à¦¤à§‡ à¦šà¦¾à¦“?"
+        f"⚙️ <b>আপনার SETTINGS</b> (Admin {uid})\n"
+        "⚡━━━━━━━━━━━━━━━━⚡\n\n"
+        "📡 <b>OTP GROUP</b>\n"
+        f"  🔗 Link: {link_str}\n"
+        f"  🆔 Chat ID: {id_str}\n"
+        f"  ⏱️ Auto Delete: {auto_str}\n\n"
+        "🎨 <b>BRAND & CHANNELS</b>\n"
+        f"  👑 Brand: <b>{brand_str}</b>\n"
+        f"  📲 Number Ch: {num_str}\n"
+        f"  📢 Main Ch: {main_str}\n"
+        f"  🤖 Bot Link: {bot_str}\n\n"
+        "⚡━━━━━━━━━━━━━━━━⚡\n"
+        "⬇️ কী change করতে চাও?"
     )
 
 
@@ -3653,18 +3653,18 @@ def _settings_markup(uid=None):
     if uid is None:
         uid = SUPER_ADMIN_ID
     auto_del = _group_settings.get("auto_delete", True)
-    auto_label = "â±ï¸ Auto Delete: ðŸŸ¢ ON" if auto_del else "â±ï¸ Auto Delete: ðŸ”´ OFF"
+    auto_label = "⏱️ Auto Delete: 🟢 ON" if auto_del else "⏱️ Auto Delete: 🔴 OFF"
     markup = types.InlineKeyboardMarkup(row_width=2)
     markup.add(
-        types.InlineKeyboardButton("ðŸ†” OTP Group Set", callback_data=f"my_setgroup:{uid}"),
-        types.InlineKeyboardButton("ðŸ‘‘ Brand Set", callback_data=f"my_setbrand:{uid}"),
+        types.InlineKeyboardButton("🆔 OTP Group Set", callback_data=f"my_setgroup:{uid}"),
+        types.InlineKeyboardButton("👑 Brand Set", callback_data=f"my_setbrand:{uid}"),
     )
     markup.add(
-        types.InlineKeyboardButton("ðŸ“² Number Ch", callback_data=f"my_setnumch:{uid}"),
-        types.InlineKeyboardButton("ðŸ“¢ Main Ch", callback_data=f"my_setmainch:{uid}"),
+        types.InlineKeyboardButton("📲 Number Ch", callback_data=f"my_setnumch:{uid}"),
+        types.InlineKeyboardButton("📢 Main Ch", callback_data=f"my_setmainch:{uid}"),
     )
     markup.add(
-        types.InlineKeyboardButton("ðŸ¤– Bot Link", callback_data=f"my_setbotlink:{uid}"),
+        types.InlineKeyboardButton("🤖 Bot Link", callback_data=f"my_setbotlink:{uid}"),
         types.InlineKeyboardButton(auto_label, callback_data="set_autodel"),
     )
     return markup
@@ -3712,7 +3712,7 @@ def _grp_get_link(message):
     if not link.startswith("https://t.me/") and not link.startswith("http://"):
         msg = bot.send_message(
             message.chat.id,
-            "âŒ Valid Telegram link dao:\n<i>Example: https://t.me/aR_OTP_rcv</i>",
+            "❌ Valid Telegram link dao:\n<i>Example: https://t.me/aR_OTP_rcv</i>",
             reply_markup=_back_admin_kb(),
             parse_mode="HTML",
         )
@@ -3722,8 +3722,8 @@ def _grp_get_link(message):
     save_group_settings()
     _go_admin_panel(
         message,
-        f"âœ…ðŸ”¥ <b>GROUP LINK UPDATED!</b>\n\n"
-        f"ðŸ”— <b>Notun Link:</b> {link}\n\n"
+        f"✅🔥 <b>GROUP LINK UPDATED!</b>\n\n"
+        f"🔗 <b>Notun Link:</b> {link}\n\n"
         f"<i>Ekhon theke number-er nichor OTP Group button-e ei link thakbe.</i>",
     )
 
@@ -3740,7 +3740,7 @@ def _grp_get_id(message):
     except ValueError:
         msg = bot.send_message(
             message.chat.id,
-            "âŒ Valid Chat ID dao (number):\n<i>Example: -1001234567890</i>",
+            "❌ Valid Chat ID dao (number):\n<i>Example: -1001234567890</i>",
             reply_markup=_back_admin_kb(),
             parse_mode="HTML",
         )
@@ -3750,8 +3750,8 @@ def _grp_get_id(message):
     save_group_settings()
     _go_admin_panel(
         message,
-        f"âœ…ðŸ”¥ <b>GROUP CHAT ID UPDATED!</b>\n\n"
-        f"ðŸ†” <b>Notun Chat ID:</b> <code>{gid}</code>\n\n"
+        f"✅🔥 <b>GROUP CHAT ID UPDATED!</b>\n\n"
+        f"🆔 <b>Notun Chat ID:</b> <code>{gid}</code>\n\n"
         f"<i>Ekhon theke OTP ei group-e pathano hobe.</i>",
     )
 
@@ -3766,7 +3766,7 @@ def _sett_get_channel2(message):
     if not link.startswith("https://") and not link.startswith("http://"):
         msg = bot.send_message(
             message.chat.id,
-            "âŒ Valid link dao:\n<i>Example: https://t.me/aR_OTP_rcv</i>",
+            "❌ Valid link dao:\n<i>Example: https://t.me/aR_OTP_rcv</i>",
             reply_markup=_back_admin_kb(),
             parse_mode="HTML",
         )
@@ -3776,8 +3776,8 @@ def _sett_get_channel2(message):
     save_group_settings()
     _go_admin_panel(
         message,
-        f"âœ… <b>JOIN CHANNEL UPDATED!</b>\n\n"
-        f"ðŸ“¢ <b>Notun Link:</b> {link}",
+        f"✅ <b>JOIN CHANNEL UPDATED!</b>\n\n"
+        f"📢 <b>Notun Link:</b> {link}",
     )
 
 
@@ -3791,7 +3791,7 @@ def _sett_get_botlink(message):
     if not link.startswith("https://") and not link.startswith("http://"):
         msg = bot.send_message(
             message.chat.id,
-            "âŒ Valid link dao:\n<i>Example: https://t.me/ar_otp_bot</i>",
+            "❌ Valid link dao:\n<i>Example: https://t.me/ar_otp_bot</i>",
             reply_markup=_back_admin_kb(),
             parse_mode="HTML",
         )
@@ -3801,8 +3801,8 @@ def _sett_get_botlink(message):
     save_group_settings()
     _go_admin_panel(
         message,
-        f"âœ… <b>BOT LINK UPDATED!</b>\n\n"
-        f"ðŸ¤– <b>Notun Link:</b> {link}",
+        f"✅ <b>BOT LINK UPDATED!</b>\n\n"
+        f"🤖 <b>Notun Link:</b> {link}",
     )
 
 
@@ -3818,7 +3818,7 @@ def _admin_add_get_id(message):
     except ValueError:
         msg = bot.send_message(
             message.chat.id,
-            "âŒ Valid Telegram User ID dao (shudhu number):\n<i>Example: 123456789</i>",
+            "❌ Valid Telegram User ID dao (shudhu number):\n<i>Example: 123456789</i>",
             reply_markup=_back_admin_kb(),
             parse_mode="HTML",
         )
@@ -3827,14 +3827,14 @@ def _admin_add_get_id(message):
     if add_admin(new_uid):
         _go_admin_panel(
             message,
-            f"âœ… <b>ADMIN ADDED!</b>\n\n"
-            f"ðŸ‘‘ <b>New Admin ID:</b> <code>{new_uid}</code>\n\n"
+            f"✅ <b>ADMIN ADDED!</b>\n\n"
+            f"👑 <b>New Admin ID:</b> <code>{new_uid}</code>\n\n"
             f"<i>Ekhon theke ei user admin panel access pabe.</i>",
         )
     else:
         _go_admin_panel(
             message,
-            f"âš ï¸ <b>User <code>{new_uid}</code> already admin ache!</b>",
+            f"⚠️ <b>User <code>{new_uid}</code> already admin ache!</b>",
         )
 
 
@@ -3843,7 +3843,7 @@ def _show_remove_admin(message):
     if not removable:
         bot.send_message(
             message.chat.id,
-            "â„¹ï¸ <b>Remove korar moto kono extra admin nei.</b>\n\n"
+            "ℹ️ <b>Remove korar moto kono extra admin nei.</b>\n\n"
             "<i>Super Admin remove kora jabe na.</i>",
             reply_markup=_back_admin_kb(),
             parse_mode="HTML",
@@ -3853,31 +3853,31 @@ def _show_remove_admin(message):
     for aid in removable:
         name = user_names.get(str(aid), {}).get("first_name", "") or str(aid)
         markup.add(types.InlineKeyboardButton(
-            f"ðŸ—‘ï¸ {name} [{aid}]", callback_data=f"rmadmin:{aid}"
+            f"🗑️ {name} [{aid}]", callback_data=f"rmadmin:{aid}"
         ))
     bot.send_message(
         message.chat.id,
-        "ðŸ—‘ï¸ <b>Remove Admin</b>\n\n"
-        "âš¡â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”âš¡\n"
+        "🗑️ <b>Remove Admin</b>\n\n"
+        "⚡━━━━━━━━━━━━━━━━⚡\n"
         "Niche theke admin select koro:\n\n"
-        "<i>âš ï¸ Super Admin remove kora jabe na.</i>",
+        "<i>⚠️ Super Admin remove kora jabe na.</i>",
         reply_markup=markup,
         parse_mode="HTML",
     )
 
 
-def _go_admin_panel(message, text="ðŸ”¥ <b>ADMIN PANEL</b>"):
+def _go_admin_panel(message, text="🔥 <b>ADMIN PANEL</b>"):
     m_admin = types.ReplyKeyboardMarkup(resize_keyboard=True)
-    m_admin.add("âž• ð—¡ð˜‚ð—ºð—¯ð—®ð—¿ ð—”ð—±ð—±", "ðŸ—‘ï¸ ð—¦ð—¼ð—¯ ð—–ð—¹ð—²ð—®ð—¿")
-    m_admin.add("ðŸ”¥ðŸ“¢ ð—•ð—¿ð—¼ð—®ð—±ð—°ð—®ð˜€ð˜", "âš¡ðŸ‘¥ ð—¨ð˜€ð—²ð—¿ ð—–ð—¼ð˜‚ð—»ð˜")
-    m_admin.add("ðŸ“‹ðŸ‘¥ ð—¨ð˜€ð—²ð—¿ ð—Ÿð—¶ð˜€ð˜")
-    m_admin.add("ðŸŽ­ ð——ð—˜ð— ð—¢ ð—¢ð—§ð—£")
-    m_admin.add("âž• ð—”ð—±ð—± ð—£ð—®ð—»ð—²ð—¹", "ðŸ—‘ï¸ ð—¥ð—²ð—ºð—¼ð˜ƒð—² ð—£ð—®ð—»ð—²ð—¹")
-    m_admin.add("âž• ð—”ð—±ð—± ð—¦ð—²ð—¿ð˜ƒð—¶ð—°ð—²", "ðŸ—‘ï¸ ð—¥ð—²ð—ºð—¼ð˜ƒð—² ð—¦ð—²ð—¿ð˜ƒð—¶ð—°ð—²")
-    m_admin.add("ðŸ“Š ð—£ð—®ð—»ð—²ð—¹ð˜€")
-    m_admin.add("ðŸ‘‘ ð—”ð—±ð—± ð—”ð—±ð—ºð—¶ð—»", "ðŸ—‘ï¸ ð—¥ð—²ð—ºð—¼ð˜ƒð—² ð—”ð—±ð—ºð—¶ð—»")
-    m_admin.add("âš™ï¸ ð—¦ð—²ð˜ð˜ð—¶ð—»ð—´ð˜€")
-    m_admin.add("â¬…ï¸ðŸ”™ ð—¨ð˜€ð—²ð—¿ ð— ð—²ð—»ð˜‚")
+    m_admin.add("➕ 𝗡𝘂𝗺𝗯𝗮𝗿 𝗔𝗱𝗱", "🗑️ 𝗦𝗼𝗯 𝗖𝗹𝗲𝗮𝗿")
+    m_admin.add("🔥📢 𝗕𝗿𝗼𝗮𝗱𝗰𝗮𝘀𝘁", "⚡👥 𝗨𝘀𝗲𝗿 𝗖𝗼𝘂𝗻𝘁")
+    m_admin.add("📋👥 𝗨𝘀𝗲𝗿 𝗟𝗶𝘀𝘁")
+    m_admin.add("🎭 𝗗𝗘𝗠𝗢 𝗢𝗧𝗣")
+    m_admin.add("➕ 𝗔𝗱𝗱 𝗣𝗮𝗻𝗲𝗹", "🗑️ 𝗥𝗲𝗺𝗼𝘃𝗲 𝗣𝗮𝗻𝗲𝗹")
+    m_admin.add("➕ 𝗔𝗱𝗱 𝗦𝗲𝗿𝘃𝗶𝗰𝗲", "🗑️ 𝗥𝗲𝗺𝗼𝘃𝗲 𝗦𝗲𝗿𝘃𝗶𝗰𝗲")
+    m_admin.add("📊 𝗣𝗮𝗻𝗲𝗹𝘀")
+    m_admin.add("👑 𝗔𝗱𝗱 𝗔𝗱𝗺𝗶𝗻", "🗑️ 𝗥𝗲𝗺𝗼𝘃𝗲 𝗔𝗱𝗺𝗶𝗻")
+    m_admin.add("⚙️ 𝗦𝗲𝘁𝘁𝗶𝗻𝗴𝘀")
+    m_admin.add("⬅️🔙 𝗨𝘀𝗲𝗿 𝗠𝗲𝗻𝘂")
     bot.send_message(
         message.chat.id,
         text,
@@ -3888,29 +3888,29 @@ def _go_admin_panel(message, text="ðŸ”¥ <b>ADMIN PANEL</b>"):
 
 def _cancel_kb():
     kb = types.ReplyKeyboardMarkup(resize_keyboard=True)
-    kb.add("âŒ Cancel")
+    kb.add("❌ Cancel")
     return kb
 
 
 def _back_admin_kb():
     kb = types.ReplyKeyboardMarkup(resize_keyboard=True)
-    kb.add("ðŸ”™ Admin Panel")
+    kb.add("🔙 Admin Panel")
     return kb
 
 
 def _is_back(txt):
-    return (txt or "").strip() in ("ðŸ”™ Admin Panel", "âŒ Cancel")
+    return (txt or "").strip() in ("🔙 Admin Panel", "❌ Cancel")
 
 
 def process_auto_add(message):
     svc = (message.text or "").strip().lower()
-    if svc == "âŒ cancel":
+    if svc == "❌ cancel":
         _go_admin_panel(message)
         return
     if svc not in stock:
         m = types.ReplyKeyboardMarkup(resize_keyboard=True)
         m.add("facebook", "instagram", "whatsapp", "telegram", "binance", "pc clone")
-        m.add("âŒ Cancel")
+        m.add("❌ Cancel")
         msg = bot.send_message(
             message.chat.id,
             " <b>Vul service! Abar choose koro:</b>",
@@ -3921,8 +3921,8 @@ def process_auto_add(message):
         return
     msg = bot.send_message(
         message.chat.id,
-        f"ðŸ”¥ <b>{svc.upper()}</b>\n\n"
-        f"ðŸ“ <b>Slot name dao:</b>\n"
+        f"🔥 <b>{svc.upper()}</b>\n\n"
+        f"📝 <b>Slot name dao:</b>\n"
         f"<i>Udharan: Mali 1, Germany 2, India 3</i>",
         reply_markup=_cancel_kb(),
         parse_mode="HTML",
@@ -3932,13 +3932,13 @@ def process_auto_add(message):
 
 def ask_numbers_for_slot(message, svc):
     slot_name = (message.text or "").strip()
-    if slot_name == "âŒ Cancel":
+    if slot_name == "❌ Cancel":
         _go_admin_panel(message)
         return
     if not slot_name:
         msg = bot.send_message(
             message.chat.id,
-            "âŒ Slot name dao:",
+            "❌ Slot name dao:",
             reply_markup=_cancel_kb(),
             parse_mode="HTML",
         )
@@ -3946,8 +3946,8 @@ def ask_numbers_for_slot(message, svc):
         return
     msg = bot.send_message(
         message.chat.id,
-        f"âœ… Slot: <b>{slot_name}</b>\n\n"
-        f"ðŸ“± Ekhon <b>{svc.upper()}</b> er number gulo pathao:\n"
+        f"✅ Slot: <b>{slot_name}</b>\n\n"
+        f"📱 Ekhon <b>{svc.upper()}</b> er number gulo pathao:\n"
         f"<i>(Newline ba comma diye alag koro)</i>",
         reply_markup=_cancel_kb(),
         parse_mode="HTML",
@@ -3958,7 +3958,7 @@ def ask_numbers_for_slot(message, svc):
 def finalize_auto_add(message, svc, slot_name=None):
     global stock
     uid = message.from_user.id
-    if (message.text or "").strip() == "âŒ Cancel":
+    if (message.text or "").strip() == "❌ Cancel":
         _go_admin_panel(message)
         return
     nums = [n.strip() for n in re.split(r"[,\n\r]", message.text) if n.strip()]
@@ -3980,44 +3980,44 @@ def finalize_auto_add(message, svc, slot_name=None):
             added_count += 1
     save_stock()
     markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
-    markup.add("âž• Aro Add koro", "ðŸ”™ Admin Menu")
+    markup.add("➕ Aro Add koro", "🔙 Admin Menu")
     bot.send_message(
         message.chat.id,
-        f"âœ…ðŸ”¥ <b>DONE!</b>\n\n"
-        f"ðŸ—‚ <b>Slot:</b> {slot_name or 'Auto'}\n"
-        f"ðŸ“± <b>Added:</b> {added_count} à¦Ÿà¦¿ number",
+        f"✅🔥 <b>DONE!</b>\n\n"
+        f"🗂 <b>Slot:</b> {slot_name or 'Auto'}\n"
+        f"📱 <b>Added:</b> {added_count} টি number",
         reply_markup=markup,
         parse_mode="HTML",
     )
     bot.register_next_step_handler(
-        bot.send_message(message.chat.id, "â¬‡ï¸ Ki korbe?", parse_mode="HTML"),
+        bot.send_message(message.chat.id, "⬇️ Ki korbe?", parse_mode="HTML"),
         lambda m: _after_add_handler(m, svc),
     )
 
 
 def _after_add_handler(message, last_svc):
     txt = (message.text or "").strip()
-    if txt == "âž• Aro Add koro":
+    if txt == "➕ Aro Add koro":
         msg = bot.send_message(
             message.chat.id,
-            f"ðŸ“ <b>Notun slot name dao:</b>\n<i>Udharan: Mali 2, Germany 3</i>",
+            f"📝 <b>Notun slot name dao:</b>\n<i>Udharan: Mali 2, Germany 3</i>",
             parse_mode="HTML",
         )
         bot.register_next_step_handler(msg, lambda m: ask_numbers_for_slot(m, last_svc))
     else:
         bot.send_message(
             message.chat.id,
-            "ðŸ”™ Admin Menu",
+            "🔙 Admin Menu",
             reply_markup=main_menu(message.from_user.id),
             parse_mode="HTML",
         )
 
 
-# â”€â”€ Heartbeat / watchdog â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Heartbeat / watchdog ───────────────────────────────────────────────────────
 
 
 
-# â”€â”€ Start â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Start ─────────────────────────────────────────────────────────────────────
 
 try:
     requests.get(
@@ -4044,14 +4044,14 @@ for _dp in _dynamic_panels:
 
 _ts_boot = time.strftime("%H:%M:%S")
 brand_main = get_brand(SUPER_ADMIN_ID)
-print(f"[{_ts_boot}] â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—")
-print(f"[{_ts_boot}] â•‘  ðŸ”¥ RABBI OTP BOT â€” MULTI-TENANT v2.0  â•‘")
-print(f"[{_ts_boot}] â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•")
-print(f"[{_ts_boot}] ðŸš€ Starting 6 hardcoded panels + dynamic panels...")
-print(f"[{_ts_boot}] ðŸ‘‘ Main Brand: {brand_main}")
-print(f"[{_ts_boot}] âš™ï¸  Poll interval: {POLL_INTERVAL}s")
-print(f"[{_ts_boot}] ðŸ“ Admin configs dir: {ADMIN_CONFIGS_DIR}/")
-print(f"[{_ts_boot}] ðŸ“‹ Dynamic panels loaded: {len(_dynamic_panels)}")
+print(f"[{_ts_boot}] ╔══════════════════════════════════════════╗")
+print(f"[{_ts_boot}] ║  🔥 RABBI OTP BOT — MULTI-TENANT v2.0  ║")
+print(f"[{_ts_boot}] ╚══════════════════════════════════════════╝")
+print(f"[{_ts_boot}] 🚀 Starting 6 hardcoded panels + dynamic panels...")
+print(f"[{_ts_boot}] 👑 Main Brand: {brand_main}")
+print(f"[{_ts_boot}] ⚙️  Poll interval: {POLL_INTERVAL}s")
+print(f"[{_ts_boot}] 📁 Admin configs dir: {ADMIN_CONFIGS_DIR}/")
+print(f"[{_ts_boot}] 📋 Dynamic panels loaded: {len(_dynamic_panels)}")
 
 
 def _clear_webhook():
@@ -4074,11 +4074,11 @@ while True:
             allowed_updates=["message", "callback_query"],
         )
     except requests.exceptions.ReadTimeout:
-        print("[POLLING] ReadTimeout â€” restarting in 3s...")
+        print("[POLLING] ReadTimeout — restarting in 3s...")
         time.sleep(3)
     except requests.exceptions.ConnectionError:
-        print("[POLLING] ConnectionError â€” restarting in 5s...")
+        print("[POLLING] ConnectionError — restarting in 5s...")
         time.sleep(5)
     except Exception as e:
-        print(f"[POLLING] Error: {e} â€” restarting in 5s...")
+        print(f"[POLLING] Error: {e} — restarting in 5s...")
         time.sleep(5)
